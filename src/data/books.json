@@ -1,0 +1,79 @@
+{
+  "books": [
+    {
+      "title": "The Law",
+      "authors": [
+        "Claude Frédéric Bastiat"
+      ],
+      "categories": [
+        "Legal System",
+        "Interventionism",
+        "Political Theory"
+      ],
+      "urls": {
+        "pdf": "https://mises.org/system/tdf/thelaw.pdf?file=1&type=document",
+        "epub": "https://mises.org/system/tdf/The%20Law_6.epub?file=1&type=ebook",
+        "amazon": "http://amzn.to/2mmKIb2"
+      }
+    },
+    {
+      "title": "The Bastiat Collection",
+      "authors": [
+        "Claude Frédéric Bastiat"
+      ],
+      "categories": [
+        "Austrian Economics Overview"
+      ],
+      "urls": {
+        "pdf": "https://mises.org/system/tdf/The%20Bastiat%20Collection_4.pdf?file=1&type=document",
+        "epub": "https://mises.org/system/tdf/The%20Bastiat%20Collection_4.epub?file=1&type=ebook",
+        "amazon": "http://amzn.to/2nfOUqH"
+      }
+    },
+    {
+      "title": "Anatomy of the State",
+      "authors": [
+        "Murray N. Rothbard"
+      ],
+      "categories": [
+        "Political Theory"
+      ],
+      "urls": {
+        "pdf": "https://mises.org/system/tdf/Anatomy%20of%20the%20State_3.pdf?file=1&type=document",
+        "epub": "https://mises.org/system/tdf/Anatomy%20of%20the%20State_3.epub?file=1&type=ebook",
+        "amazon": "http://amzn.to/2mHcdwY"
+      }
+    },
+    {
+      "title": "For a New Liberty: The Libertarian Manifesto",
+      "authors": [
+        "Murray N. Rothbard"
+      ],
+      "categories": [
+        "Legal System",
+        "Philosophy and Methodology",
+        "Political Theory"
+      ],
+      "urls": {
+        "pdf": "https://mises.org/system/tdf/For%20a%20New%20Liberty%20The%20Libertarian%20Manifesto_3.pdf?file=1&type=document",
+        "epub": "https://mises.org/system/tdf/For%20a%20New%20Liberty%20The%20Libertarian%20Manifesto_3.epub?file=1&type=ebook",
+        "amazon": "http://amzn.to/2mHigBA"
+      }
+    },
+    {
+      "title": "Man, Economy, and State, with Power and Market",
+      "authors": [
+        "Murray N. Rothbard"
+      ],
+      "categories": [
+        "Austrian Economics Overview",
+        "Political Theory"
+      ],
+      "urls": {
+        "pdf": "https://mises.org/system/tdf/Man%2C%20Economy%2C%20and%20State%2C%20with%20Power%20and%20Market_2.pdf?file=1&type=document",
+        "epub": "https://mises.org/system/tdf/Man%2C%20Economy%2C%20%26%20State%20With%20Power%20And%20Market.epub?file=1&type=ebook",
+        "amazon": "http://amzn.to/2mmQQ3f"
+      }
+    }
+  ]
+}

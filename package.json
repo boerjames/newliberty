@@ -1,0 +1,37 @@
+{
+  "name": "newlibery",
+  "version": "1.0.0",
+  "description": "economics and liberty resources",
+  "main": "index.js",
+  "scripts": {
+    "build": "rimraf dist && NODE_ENV=production webpack",
+    "stats": "rimraf dist && NODE_ENV=production webpack --profile --json > stats.json",
+    "dev": "NODE_ENV=development node webpack-dev-server.js"
+  },
+  "author": "James Boer",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "^6.17.0",
+    "babel-loader": "^6.2.5",
+    "babel-preset-env": "^1.2.1",
+    "babel-preset-react": "^6.23.0",
+    "babel-preset-stage-0": "^6.16.0",
+    "bulma": "^0.3.2",
+    "css-loader": "^0.25.0",
+    "extract-text-webpack-plugin": "^2.1.0",
+    "file-loader": "^0.9.0",
+    "html-webpack-plugin": "^2.28.0",
+    "node-sass": "^4.5.0",
+    "react-router-dom": "^4.0.0",
+    "rimraf": "^2.5.4",
+    "sass-loader": "^6.0.3",
+    "style-loader": "^0.13.1",
+    "url-loader": "^0.5.7",
+    "webpack": "^2.2.1",
+    "webpack-dev-server": "^2.4.1"
+  },
+  "dependencies": {
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2"
+  }
+}
