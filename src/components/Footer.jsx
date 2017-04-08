@@ -10,7 +10,7 @@ class Footer extends Component {
                         <br/>
                         1nAu1m4dMcpH1ychMSX6rJVfYkFztSUZQ
                         <br/>
-                        <a href="bitcoin:1nAu1m4dMcpH1ychMSX6rJVfYkFztSUZQ?amount=0.01?name=NewLibertyIO?message=Donation%20to%20newliberty.io">Direct Link</a>
+                        <a href="bitcoin:1nAu1m4dMcpH1ychMSX6rJVfYkFztSUZQ">Direct Link</a>
                     </div>
                 </div>
             </footer>

@@ -45,17 +45,11 @@ class Book extends Component {
                     <div className="content">
                         <strong>{this.book.title}</strong>
                         <br/>
-                        {
-                            this.getAuthors()
-                        }
+                        {this.getAuthors()}
                         <br/>
-                        {
-                            this.getCategories()
-                        }
+                        {this.getCategories()}
                         <br/>
-                        {
-                            this.getURLs()
-                        }
+                        {this.getURLs()}
                     </div>
                 </div>
             </div>

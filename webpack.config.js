@@ -24,7 +24,8 @@ const plugins = PRODUCTION ? [
 	new webpack.optimize.UglifyJsPlugin(),
 	new HTMLPlugin({
 		template: './src/html/index-template.html',
-		filename: 'index.html'
+		filename: 'index.html',
+		title: 'New Liberty'
 	})
 ] : [
 	new webpack.HotModuleReplacementPlugin()

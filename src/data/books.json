@@ -74,6 +74,83 @@
         "epub": "https://mises.org/system/tdf/Man%2C%20Economy%2C%20%26%20State%20With%20Power%20And%20Market.epub?file=1&type=ebook",
         "amazon": "http://amzn.to/2mmQQ3f"
       }
+    },
+    {
+      "title": "Science, Technology, and Government",
+      "authors": [
+        "Murray N. Rothbard"
+      ],
+      "categories": [
+        "Big Government",
+        "Free Markets",
+        "Interventionism"
+      ],
+      "urls": {
+        "pdf": "https://mises.org/system/tdf/Science%20Technology%20and%20Government_0.pdf?file=1&type=document",
+        "epub": "https://mises.org/system/tdf/Science%20Technology%20and%20Government_5.epub?file=1&type=ebook",
+        "amazon": "http://amzn.to/2oSeiEu"
+      }
+    },
+    {
+      "title": "Economic Controversies",
+      "authors": [
+        "Murray N. Rothbard"
+      ],
+      "categories": [
+        "Austrian Economics Overview",
+        "Praxeology"
+      ],
+      "urls": {
+        "pdf": "https://mises.org/system/tdf/Economic%20Controversies_2.pdf?file=1&type=document",
+        "epub": "https://mises.org/system/tdf/Economic%20Controversies_2.epub?file=1&type=ebook",
+        "amazon": "http://amzn.to/2nod72r"
+      }
+    },
+    {
+      "title": "The Ethics of Liberty",
+      "authors": [
+        "Murray N. Rothbard"
+      ],
+      "categories": [
+        "Big Government",
+        "Philosophy and Methodology",
+        "Political Theory"
+      ],
+      "urls": {
+        "pdf": "https://mises.org/system/tdf/Anatomy%20of%20the%20State_3.pdf?file=1&type=document",
+        "epub": "https://mises.org/system/tdf/The%20Ethics%20of%20Liberty.epub?file=1&type=ebook",
+        "amazon": "http://amzn.to/2oSkIUh"
+      }
+    },
+    {
+      "title": "Conceived in Liberty",
+      "authors": [
+        "Murray N. Rothbard"
+      ],
+      "categories": [
+        "U.S. History"
+      ],
+      "urls": {
+        "pdf": "https://mises.org/system/tdf/Conceived%20in%20Liberty_Vol_2_2.pdf?file=1&type=document",
+        "epub": "https://mises.org/system/tdf/Anatomy%20of%20the%20State_3.epub?file=1&type=ebook",
+        "amazon": "http://amzn.to/2oOwa69"
+      }
+    },
+    {
+      "title": "Egalitarianism as a Revolt Against Nature, and Other Essays",
+      "authors": [
+        "Murray N. Rothbard"
+      ],
+      "categories": [
+        "Free Markets",
+        "Political Theory",
+        "Private Property"
+      ],
+      "urls": {
+        "pdf": "https://mises.org/system/tdf/Egalitarianism%20as%20a%20Revolt%20Against%20Nature%2C%20and%20Other%20Essays_2.pdf?file=1&type=document",
+        "epub": "https://mises.org/system/tdf/Egalitarianism%20as%20a%20Revolt%20Against%20Nature%2C%20and%20Other%20Essays_2.epub?file=1&type=ebook",
+        "amazon": "http://amzn.to/2nopDPI"
+      }
     }
   ]
 }
