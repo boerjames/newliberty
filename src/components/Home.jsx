@@ -8,7 +8,8 @@ class Home extends Component {
                     <div className="container has-text-centered">
                         <div className="columns is-vcentered">
                             <div className="column is-12">
-                                <h1 className="title has-text-centered">Home</h1>
+                                <p className="title has-text-centered">Welcome Home</p>
+                                <p className="has-text-centered">1nAu1m4dMcpH1ychMSX6rJVfYkFztSUZQ</p>
                             </div>
                         </div>
                     </div>
