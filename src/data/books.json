@@ -1,19 +1,34 @@
 {
   "authors": [
     "Claude Frédéric Bastiat",
+    "Hans-Hermann Hoppe",
     "Murray N. Rothbard"
   ],
   "categories": [
     "Austrian Economics Overview",
     "Big Government",
+    "Biographies",
+    "Booms and Busts",
+    "Business Cycles",
+    "Education",
+    "The Federal Reserve",
     "Free Markets",
+    "Global Economy",
+    "Gold Standard",
     "Interventionism",
     "Legal System",
+    "Media and Culture",
+    "Monetary Theory",
+    "Money and Banking",
+    "Other Schools of Thought",
     "Philosophy and Methodology",
     "Political Theory",
     "Praxeology",
     "Private Property",
-    "U.S. History"
+    "U.S. Economy",
+    "U.S. History",
+    "War and Foreign Policy",
+    "World History"
   ],
   "books": [
     {
@@ -166,6 +181,505 @@
         "pdf": "https://mises.org/system/tdf/Egalitarianism%20as%20a%20Revolt%20Against%20Nature%2C%20and%20Other%20Essays_2.pdf?file=1&type=document",
         "epub": "https://mises.org/system/tdf/Egalitarianism%20as%20a%20Revolt%20Against%20Nature%2C%20and%20Other%20Essays_2.epub?file=1&type=ebook",
         "amazon": "http://amzn.to/2nopDPI"
+      }
+    },
+    {
+      "title": "Left, Right, and the Prospects for Liberty",
+      "authors": [
+        "Murray N. Rothbard"
+      ],
+      "categories": [
+        "Political Theory"
+      ],
+      "urls": {
+        "pdf": "https://mises.org/system/tdf/Left%2C%20Right%2C%20and%20the%20Prospects%20for%20Liberty_4.pdf?file=1&type=document",
+        "epub": "https://mises.org/system/tdf/Left%2C%20Right%2C%20and%20the%20Prospects%20for%20Liberty_4.epub?file=1&type=ebook",
+        "amazon": "https://alexa.design/2p1xWxR"
+      }
+    },
+    {
+      "title": "War Collectivism",
+      "authors": [
+        "Murray N. Rothbard"
+      ],
+      "categories": [
+        "Big Government",
+        "U.S. History"
+      ],
+      "urls": {
+        "pdf": "https://mises.org/system/tdf/War%20Collectivism_Vol_4_2.pdf?file=1&type=document",
+        "epub": "https://mises.org/system/tdf/War%20Collectivism_2.epub?file=1&type=ebook",
+        "amazon": "https://alexa.design/2p1jS7C"
+      }
+    },
+    {
+      "title": "Review of Austian Economics: Full Collection",
+      "authors": [
+        "Murray N. Rothbard"
+      ],
+      "categories": [
+        "Austrian Economics Overview"
+      ],
+      "urls": {
+        "epub": "https://mises.org/system/tdf/RAE1-10_Full_Collection_0.epub?file=1&type=ebook",
+        "amazon": "https://alexa.design/2otjFfD"
+      }
+    },
+    {
+      "title": "An Austrian Perspective on the History of Economic Thought",
+      "authors": [
+        "Murray N. Rothbard"
+      ],
+      "categories": [
+        "Austrian Economics Overview"
+      ],
+      "urls": {
+        "epub": "https://mises.org/system/tdf/Austrian%20Perspective%20on%20the%20History%20of%20Economic%20Thought_1.epub?file=1&type=ebook",
+        "amazon": "https://alexa.design/2othGrN"
+      }
+    },
+    {
+      "title": "Strictly Confidential: The Private Volker Fund Memos of Murray N. Rothbard",
+      "authors": [
+        "Murray N. Rothbard"
+      ],
+      "categories": [
+        "Interventionism",
+        "Political Theory",
+        "U.S. History",
+        "War and Foreign Policy"
+      ],
+      "urls": {
+        "pdf": "https://mises.org/system/tdf/Strictly%20Confidential%20The%20Private%20Volker%20Fund%20Memos%20of%20Murray%20N%20Rothbard_2.pdf?file=1&type=document",
+        "epub": "https://mises.org/system/tdf/Strictly%20Confidential%20The%20Private%20Volker%20Fund%20Memos%20of%20Murray%20N%20Rothbard_2.epub?file=1&type=ebook",
+        "amazon": "https://alexa.design/2nzeL1j"
+      }
+    }, {
+      "title": "Keynes the Man",
+      "authors": [
+        "Murray N. Rothbard"
+      ],
+      "categories": [
+        "Biographies",
+        "Other Schools of Thought"
+      ],
+      "urls": {
+        "pdf": "https://mises.org/system/tdf/Keynes%20the%20Man_2.pdf?file=1&type=document",
+        "epub": "https://mises.org/system/tdf/Keynes%20the%20Man_2.epub?file=1&type=ebook",
+        "amazon": "https://alexa.design/2nzeWd7"
+      }
+    },
+    {
+      "title": "The Complete Libertarian Forum",
+      "authors": [
+        "Murray N. Rothbard"
+      ],
+      "categories": [
+        "Political Theory"
+      ],
+      "urls": {
+        "epub": "https://mises.org/system/tdf/Complete%20Libertarian%20Forum%20%281969-1984%29_Vol_1_3.epub?file=1&type=ebook",
+        "amazon": "https://alexa.design/2nzfKyJ"
+      }
+    },
+    {
+      "title": "Economics Depressions: Their Cause and Cure",
+      "authors": [
+        "Murray N. Rothbard"
+      ],
+      "categories": [
+        "Austrian Economics Overview",
+        "Booms and Busts",
+        "Business Cycles"
+      ],
+      "urls": {
+        "pdf": "https://mises.org/system/tdf/Economic%20Depressions%20Their%20Cause%20and%20Cure_4.pdf?file=1&type=document",
+        "epub": "https://mises.org/system/tdf/Economic%20Depressions%20Their%20Cause%20and%20Cure_4.epub?file=1&type=ebook",
+        "amazon": "https://alexa.design/2p1q2os"
+      }
+    },
+    {
+      "title": "The Origins of the Federal Reserve",
+      "authors": [
+        "Murray N. Rothbard"
+      ],
+      "categories": [
+        "Money and Banking",
+        "The Federal Reserve",
+        "U.S. History"
+      ],
+      "urls": {
+        "pdf": "https://mises.org/system/tdf/The%20Origins%20of%20the%20Federal%20Reserve_2.pdf?file=1&type=document",
+        "epub": "https://mises.org/system/tdf/The%20Origins%20of%20the%20Federal%20Reserve_2.epub?file=1&type=ebook",
+        "amazon": "https://alexa.design/2o1V3aS"
+      }
+    },
+    {
+      "title": "History of Money and Banking in the United States: The Colonial Era to World War II",
+      "authors": [
+        "Murray N. Rothbard"
+      ],
+      "categories": [
+        "Money and Banking",
+        "U.S. History"
+      ],
+      "urls": {
+        "pdf": "https://mises.org/system/tdf/History%20of%20Money%20and%20Banking%20in%20the%20United%20States%20The%20Colonial%20Era%20to%20World%20War%20II_2.pdf?file=1&type=document",
+        "epub": "https://mises.org/system/tdf/History%20of%20Money%20and%20Banking%20in%20the%20United%20States%20The%20Colonial%20Era%20to%20World%20War%20II_2.epub?file=1&type=ebook",
+        "amazon": "https://alexa.design/2o2eXCs"
+      }
+    },
+    {
+      "title": "Making Economic Sense",
+      "authors": [
+        "Murray N. Rothbard"
+      ],
+      "categories": [
+        "Austrian Economics Overview",
+        "Global Economy",
+        "Interventionism",
+        "U.S. Economy"
+      ],
+      "urls": {
+        "pdf": "https://mises.org/system/tdf/Anatomy%20of%20the%20State_3.pdf?file=1&type=document",
+        "epub": "https://mises.org/system/tdf/Making%20Economic%20Sense_3.epub?file=1&type=ebook",
+        "amazon": "http://amzn.to/2p1Dt7V"
+      }
+    },
+    {
+      "title": "The Case Against the Fed",
+      "authors": [
+        "Murray N. Rothbard"
+      ],
+      "categories": [
+        "The Federal Reserve",
+        "Money and Banking"
+      ],
+      "urls": {
+        "pdf": "https://mises.org/system/tdf/The%20Case%20Against%20the%20Fed_3.pdf?file=1&type=document",
+        "epub": "https://mises.org/system/tdf/The%20Case%20Against%20the%20Fed_2.epub?file=1&type=ebook",
+        "amazon": "http://amzn.to/2nzo3KI"
+      }
+    },
+    {
+      "title": "Ludwig von Mises: Scholar, Creator, Hero",
+      "authors": [
+        "Murray N. Rothbard"
+      ],
+      "categories": [
+        "Biographies"
+      ],
+      "urls": {
+        "pdf": "https://mises.org/system/tdf/Ludwig%20von%20Mises%20Scholar%2C%20Creator%2C%20Hero_8.pdf?file=1&type=document",
+        "amazon": "http://amzn.to/2oZKuJb"
+      }
+    },
+    {
+      "title": "Wall Street, Banks, and American Foreign Policy",
+      "authors": [
+        "Murray N. Rothbard"
+      ],
+      "categories": [
+        "The Federal Reserve",
+        "Money and Banking",
+        "War and Foreign Policy"
+      ],
+      "urls": {
+        "pdf": "https://mises.org/system/tdf/Wall%20Street%2C%20Banks%2C%20and%20American%20Foreign%20Policy_2.pdf?file=1&type=document",
+        "epub": "https://mises.org/system/tdf/Wall%20Street%2C%20Banks%2C%20and%20American%20Foreign%20Policy_2.epub?file=1&type=ebook",
+        "amazon": "http://amzn.to/2o29qMi"
+      }
+    },
+    {
+      "title": "The Mystery of Banking",
+      "authors": [
+        "Murray N. Rothbard"
+      ],
+      "categories": [
+        "Monetary Theory",
+        "Money and Banking"
+      ],
+      "urls": {
+        "pdf": "https://mises.org/system/tdf/Mystery%20of%20Banking_2.pdf?file=1&type=document",
+        "epub": "https://mises.org/system/tdf/Mystery%20of%20Banking_2.epub?file=1&type=ebook",
+        "amazon": "http://amzn.to/2otKMHl"
+      }
+    },
+    {
+      "title": "Education: Free and Compulsory",
+      "authors": [
+        "Murray N. Rothbard"
+      ],
+      "categories": [
+        "Education"
+      ],
+      "urls": {
+        "pdf": "https://mises.org/system/tdf/Education%20Free%20and%20Compulsory_3.pdf?file=1&type=document",
+        "epub": "https://mises.org/system/tdf/Education%20Free%20and%20Compulsory_3.epub?file=1&type=ebook",
+        "amazon": "http://amzn.to/2o1VHFi"
+      }
+    },
+    {
+      "title": "The Betrayal of the American Right",
+      "authors": [
+        "Murray N. Rothbard"
+      ],
+      "categories": [
+        "Political Theory",
+        "U.S. Economy",
+        "U.S. History",
+        "War and Foreign Policy"
+      ],
+      "urls": {
+        "pdf": "https://mises.org/system/tdf/The%20Betrayal%20of%20the%20American%20Right_2.pdf?file=1&type=document",
+        "epub": "https://mises.org/system/tdf/The%20Betrayal%20of%20the%20American%20Right_2.epub?file=1&type=ebook",
+        "amazon": "http://amzn.to/2nztNnO"
+      }
+    },
+    {
+      "title": "The Essential von Mises",
+      "authors": [
+        "Murray N. Rothbard"
+      ],
+      "categories": [
+        "Biographies"
+      ],
+      "urls": {
+        "pdf": "https://mises.org/system/tdf/The%20Essential%20von%20Mises_3.pdf?file=1&type=document",
+        "amazon": "http://amzn.to/2nXsnyG"
+      }
+    },
+    {
+      "title": "What Has Government Done to Our Money?",
+      "authors": [
+        "Murray N. Rothbard"
+      ],
+      "categories": [
+        "Gold Standard",
+        "Money and Banking"
+      ],
+      "urls": {
+        "pdf": "https://mises.org/system/tdf/What%20Has%20Government%20Done%20to%20Our%20Money_3.pdf?file=1&type=document",
+        "epub": "https://mises.org/system/tdf/What%20Has%20Government%20Done%20to%20Our%20Money_3.epub?file=1&type=ebook",
+        "amazon": "http://amzn.to/2oSWjky"
+      }
+    },
+    {
+      "title": "America's Great Depression",
+      "authors": [
+        "Murray N. Rothbard"
+      ],
+      "categories": [
+        "Business Cycles",
+        "The Federal Reserve",
+        "Money and Banking",
+        "U.S. Economy",
+        "U.S. History"
+      ],
+      "urls": {
+        "pdf": "https://mises.org/system/tdf/Americas%20Great%20Depression_3.pdf?file=1&type=document",
+        "epub": "https://mises.org/system/tdf/Americas%20Great%20Depression_3.epub?file=1&type=ebook",
+        "amazon": "http://amzn.to/2o2b2Wj"
+      }
+    },
+    {
+      "title": "The Panic of 1819: Reactions and Policies",
+      "authors": [
+        "Murray N. Rothbard"
+      ],
+      "categories": [
+        "Booms and Busts",
+        "Business Cycles",
+        "U.S. Economy",
+        "U.S. History"
+      ],
+      "urls": {
+        "pdf": "https://mises.org/system/tdf/The%20Panic%20of%201819%20Reactions%20and%20Policies_2.pdf?file=1&type=document",
+        "epub": "https://mises.org/system/tdf/The%20Panic%20of%201819%20Reactions%20and%20Policies_2.epub?file=1&type=ebook",
+        "amazon": "http://amzn.to/2olM72y"
+      }
+    },
+    {
+      "title": "The Case for a 100 Percent Gold Dollar",
+      "authors": [
+        "Murray N. Rothbard"
+      ],
+      "categories": [
+        "Gold Standard",
+        "Monetary Theory",
+        "Money and Banking"
+      ],
+      "urls": {
+        "pdf": "https://mises.org/system/tdf/Case%20for%20a%20100%20Percent%20Gold%20Dollar_2.pdf?file=1&type=document",
+        "amazon": "http://amzn.to/2nzqdKk"
+      }
+    },
+    {
+      "title": "A Genuine Gold Dollar vs. The Federal Reserve",
+      "authors": [
+        "Murray N. Rothbard"
+      ],
+      "categories": [
+        "The Federal Reserve",
+        "Gold Standard",
+        "Monetary Theory"
+      ],
+      "urls": {
+        "pdf": "https://mises.org/system/tdf/A%20Genuine%20Gold%20Dollar%20vs%20The%20Federal%20Reserve.pdf?file=1&type=document"
+      }
+    },
+    {
+      "title": "Democracy: The God that Failed",
+      "authors": [
+        "Hans-Hermann Hoppe"
+      ],
+      "categories": [
+        "Other Schools of Thought",
+        "Philosophy and Methodology",
+        "Political Theory",
+        "World History"
+      ],
+      "urls": {
+        "amazon": "http://amzn.to/2p5hGPY"
+      }
+    },
+    {
+      "title": "A Short History of Man: Progress and Decline",
+      "authors": [
+        "Hans-Hermann Hoppe"
+      ],
+      "categories": [
+        "Philosophy and Methodology",
+        "Political Theory"
+      ],
+      "urls": {
+        "pdf": "https://mises.org/system/tdf/A%20Short%20History%20of%20Man%20%E2%80%94%20Progress%20and%20Decline.pdf?file=1&type=document",
+        "epub": "https://mises.org/system/tdf/ShortHistoryofMan.epub?file=1&type=ebook",
+        "amazon": "http://amzn.to/2p5j9FD"
+      }
+    },
+    {
+      "title": "From Aristocracy to Monarchy to Democracy",
+      "authors": [
+        "Hans-Hermann Hoppe"
+      ],
+      "categories": [
+        "Big Government",
+        "Political Theory",
+        "World History"
+      ],
+      "urls": {
+        "pdf": "https://mises.org/system/tdf/From%20Aristocracy%20to%20Monarchy%20to%20Democracy_Hoppe_Text%202014.pdf?file=1&type=document",
+        "epub": "https://mises.org/system/tdf/FromAristocracytoMonarchytoDemocracy.epub?file=1&type=ebook",
+        "amazon": "http://amzn.to/2oy6DLH"
+      }
+    },
+    {
+      "title": "Natural Elites, Intellectuals, and the State",
+      "authors": [
+        "Hans-Hermann Hoppe"
+      ],
+      "categories": [
+        "Big Government",
+        "Media and Culture",
+        "Political Theory"
+      ],
+      "urls": {
+        "amazon": "http://amzn.to/2p5iCnb"
+      }
+    },
+    {
+      "title": "What Must Be Done",
+      "authors": [
+        "Hans-Hermann Hoppe"
+      ],
+      "categories": [
+        "Big Government",
+        "Interventionism"
+      ],
+      "urls": {
+        "pdf": "https://mises.org/system/tdf/What%20Must%20Be%20Done_7.pdf?file=1&type=document",
+        "epub": "https://mises.org/system/tdf/What%20Must%20Be%20Done_5.epub?file=1&type=ebook",
+        "amazon": "http://amzn.to/2ohDBhT"
+      }
+    },
+    {
+      "title": "The Myth of National Defense: Essays on the Theory and History of Security Production",
+      "authors": [
+        "Hans-Hermann Hoppe"
+      ],
+      "categories": [
+        "Interventionism",
+        "Political Theory",
+        "War and Foreign Policy"
+      ],
+      "urls": {
+        "pdf": "https://mises.org/system/tdf/Myth%20of%20National%20Defense%2C%20The%20Essays%20on%20the%20Theory%20and%20History%20of%20Security%20Production_3.pdf?file=1&type=document",
+        "epub": "https://mises.org/system/tdf/Myth%20of%20National%20Defense%2C%20The%20Essays%20on%20the%20Theory%20and%20History%20of%20Security%20Production_3.epub?file=1&type=ebook",
+        "amazon": "http://amzn.to/2p5lHDS"
+      }
+    },
+    {
+      "title": "The Private Production of Defense",
+      "authors": [
+        "Hans-Hermann Hoppe"
+      ],
+      "categories": [
+        "Political Theory",
+        "War and Foreign Policy"
+      ],
+      "urls": {
+        "pdf": "https://mises.org/system/tdf/The%20Private%20Production%20of%20Defense_3.pdf?file=1&type=document",
+        "epub": "https://mises.org/system/tdf/The%20Private%20Production%20of%20Defense_.epub?file=1&type=ebook",
+        "amazon": "http://amzn.to/2ohUjxs"
+      }
+    },
+    {
+      "title": "Economic Science and the Austrian Method",
+      "authors": [
+        "Hans-Hermann Hoppe"
+      ],
+      "categories": [
+        "Austrian Economics Overview",
+        "Philosophy and Methodology",
+        "Praxeology"
+      ],
+      "urls": {
+        "pdf": "https://mises.org/system/tdf/Economic%20Science%20and%20the%20Austrian%20Method_3.pdf?file=1&type=document",
+        "epub": "https://mises.org/system/tdf/Economic%20Science%20and%20the%20Austrian%20Method_3.epub?file=1&type=ebook",
+        "amazon": "http://amzn.to/2oy0sYf"
+      }
+    },
+    {
+      "title": "The Economics and Ethics of Private Property",
+      "authors": [
+        "Hans-Hermann Hoppe"
+      ],
+      "categories": [
+        "Austrian Economics Overview",
+        "Political Theory",
+        "Private Property"
+      ],
+      "urls": {
+        "pdf": "https://mises.org/system/tdf/Economics%20and%20Ethics%20of%20Private%20Property%20Studies%20in%20Political%20Economy%20and%20Philosophy_3.pdf?file=1&type=document",
+        "epub": "https://mises.org/system/tdf/Economics%20and%20Ethics%20of%20Private%20Property%20Studies%20in%20Political%20Economy%20and%20Philosophy_3.epub?file=1&type=ebook",
+        "amazon": "http://amzn.to/2pmBFq6"
+      }
+    },
+    {
+      "title": "A Theory of Socialism and Capitalism",
+      "authors": [
+        "Hans-Hermann Hoppe"
+      ],
+      "categories": [
+        "Free Markets",
+        "Interventionism",
+        "Political Theory"
+      ],
+      "urls": {
+        "pdf": "https://mises.org/system/tdf/Theory%20of%20Socialism%20and%20Capitalism%2C%20A_4.pdf?file=1&type=document",
+        "epub": "https://mises.org/system/tdf/Theory%20of%20Socialism%20and%20Capitalism%2C%20A_4.epub?file=1&type=ebook",
+        "amazon": "http://amzn.to/2ohP292"
       }
     }
   ]
