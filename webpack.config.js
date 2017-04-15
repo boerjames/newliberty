@@ -12,6 +12,7 @@ const entry = PRODUCTION ? [
 	'webpack-dev-server/client?http://localhost:8080'
 ]
 
+entry.push('babel-polyfill')
 entry.push('./src/index.js')
 
 const plugins = PRODUCTION ? [
