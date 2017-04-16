@@ -50,7 +50,8 @@
         "pdf": "https://mises.org/system/tdf/thelaw.pdf?file=1&type=document",
         "epub": "https://mises.org/system/tdf/The%20Law_6.epub?file=1&type=ebook",
         "amazon": "http://amzn.to/2mmKIb2"
-      }
+      },
+      "recommended": "y"
     },
     {
       "title": "The Bastiat Collection",
@@ -64,7 +65,8 @@
         "pdf": "https://mises.org/system/tdf/The%20Bastiat%20Collection_4.pdf?file=1&type=document",
         "epub": "https://mises.org/system/tdf/The%20Bastiat%20Collection_4.epub?file=1&type=ebook",
         "amazon": "http://amzn.to/2nfOUqH"
-      }
+      },
+      "recommended": "n"
     },
     {
       "title": "Anatomy of the State",
@@ -78,7 +80,8 @@
         "pdf": "https://mises.org/system/tdf/Anatomy%20of%20the%20State_3.pdf?file=1&type=document",
         "epub": "https://mises.org/system/tdf/Anatomy%20of%20the%20State_3.epub?file=1&type=ebook",
         "amazon": "http://amzn.to/2mHcdwY"
-      }
+      },
+      "recommended": "y"
     },
     {
       "title": "For a New Liberty: The Libertarian Manifesto",
@@ -94,7 +97,8 @@
         "pdf": "https://mises.org/system/tdf/For%20a%20New%20Liberty%20The%20Libertarian%20Manifesto_3.pdf?file=1&type=document",
         "epub": "https://mises.org/system/tdf/For%20a%20New%20Liberty%20The%20Libertarian%20Manifesto_3.epub?file=1&type=ebook",
         "amazon": "http://amzn.to/2mHigBA"
-      }
+      },
+      "recommended": "y"
     },
     {
       "title": "Man, Economy, and State, with Power and Market",
@@ -109,7 +113,8 @@
         "pdf": "https://mises.org/system/tdf/Man%2C%20Economy%2C%20and%20State%2C%20with%20Power%20and%20Market_2.pdf?file=1&type=document",
         "epub": "https://mises.org/system/tdf/Man%2C%20Economy%2C%20%26%20State%20With%20Power%20And%20Market.epub?file=1&type=ebook",
         "amazon": "http://amzn.to/2mmQQ3f"
-      }
+      },
+      "recommended": "y"
     },
     {
       "title": "Science, Technology, and Government",
@@ -125,7 +130,8 @@
         "pdf": "https://mises.org/system/tdf/Science%20Technology%20and%20Government_0.pdf?file=1&type=document",
         "epub": "https://mises.org/system/tdf/Science%20Technology%20and%20Government_5.epub?file=1&type=ebook",
         "amazon": "http://amzn.to/2oSeiEu"
-      }
+      },
+      "recommended": "n"
     },
     {
       "title": "Economic Controversies",
@@ -140,7 +146,8 @@
         "pdf": "https://mises.org/system/tdf/Economic%20Controversies_2.pdf?file=1&type=document",
         "epub": "https://mises.org/system/tdf/Economic%20Controversies_2.epub?file=1&type=ebook",
         "amazon": "http://amzn.to/2nod72r"
-      }
+      },
+      "recommended": "n"
     },
     {
       "title": "The Ethics of Liberty",
@@ -156,7 +163,8 @@
         "pdf": "https://mises.org/system/tdf/Anatomy%20of%20the%20State_3.pdf?file=1&type=document",
         "epub": "https://mises.org/system/tdf/The%20Ethics%20of%20Liberty.epub?file=1&type=ebook",
         "amazon": "http://amzn.to/2oSkIUh"
-      }
+      },
+      "recommended": "n"
     },
     {
       "title": "Conceived in Liberty",
@@ -170,7 +178,8 @@
         "pdf": "https://mises.org/system/tdf/Conceived%20in%20Liberty_Vol_2_2.pdf?file=1&type=document",
         "epub": "https://mises.org/system/tdf/Anatomy%20of%20the%20State_3.epub?file=1&type=ebook",
         "amazon": "http://amzn.to/2oOwa69"
-      }
+      },
+      "recommended": "n"
     },
     {
       "title": "Egalitarianism as a Revolt Against Nature, and Other Essays",
@@ -186,7 +195,8 @@
         "pdf": "https://mises.org/system/tdf/Egalitarianism%20as%20a%20Revolt%20Against%20Nature%2C%20and%20Other%20Essays_2.pdf?file=1&type=document",
         "epub": "https://mises.org/system/tdf/Egalitarianism%20as%20a%20Revolt%20Against%20Nature%2C%20and%20Other%20Essays_2.epub?file=1&type=ebook",
         "amazon": "http://amzn.to/2nopDPI"
-      }
+      },
+      "recommended": "n"
     },
     {
       "title": "Left, Right, and the Prospects for Liberty",
@@ -200,7 +210,8 @@
         "pdf": "https://mises.org/system/tdf/Left%2C%20Right%2C%20and%20the%20Prospects%20for%20Liberty_4.pdf?file=1&type=document",
         "epub": "https://mises.org/system/tdf/Left%2C%20Right%2C%20and%20the%20Prospects%20for%20Liberty_4.epub?file=1&type=ebook",
         "amazon": "https://alexa.design/2p1xWxR"
-      }
+      },
+      "recommended": "n"
     },
     {
       "title": "War Collectivism",
@@ -215,7 +226,8 @@
         "pdf": "https://mises.org/system/tdf/War%20Collectivism_Vol_4_2.pdf?file=1&type=document",
         "epub": "https://mises.org/system/tdf/War%20Collectivism_2.epub?file=1&type=ebook",
         "amazon": "https://alexa.design/2p1jS7C"
-      }
+      },
+      "recommended": "n"
     },
     {
       "title": "Review of Austian Economics: Full Collection",
@@ -228,7 +240,8 @@
       "urls": {
         "epub": "https://mises.org/system/tdf/RAE1-10_Full_Collection_0.epub?file=1&type=ebook",
         "amazon": "https://alexa.design/2otjFfD"
-      }
+      },
+      "recommended": "n"
     },
     {
       "title": "An Austrian Perspective on the History of Economic Thought",
@@ -241,7 +254,8 @@
       "urls": {
         "epub": "https://mises.org/system/tdf/Austrian%20Perspective%20on%20the%20History%20of%20Economic%20Thought_1.epub?file=1&type=ebook",
         "amazon": "https://alexa.design/2othGrN"
-      }
+      },
+      "recommended": "n"
     },
     {
       "title": "Strictly Confidential: The Private Volker Fund Memos of Murray N. Rothbard",
@@ -258,7 +272,8 @@
         "pdf": "https://mises.org/system/tdf/Strictly%20Confidential%20The%20Private%20Volker%20Fund%20Memos%20of%20Murray%20N%20Rothbard_2.pdf?file=1&type=document",
         "epub": "https://mises.org/system/tdf/Strictly%20Confidential%20The%20Private%20Volker%20Fund%20Memos%20of%20Murray%20N%20Rothbard_2.epub?file=1&type=ebook",
         "amazon": "https://alexa.design/2nzeL1j"
-      }
+      },
+      "recommended": "n"
     }, {
       "title": "Keynes the Man",
       "authors": [
@@ -272,7 +287,8 @@
         "pdf": "https://mises.org/system/tdf/Keynes%20the%20Man_2.pdf?file=1&type=document",
         "epub": "https://mises.org/system/tdf/Keynes%20the%20Man_2.epub?file=1&type=ebook",
         "amazon": "https://alexa.design/2nzeWd7"
-      }
+      },
+      "recommended": "n"
     },
     {
       "title": "The Complete Libertarian Forum",
@@ -285,7 +301,8 @@
       "urls": {
         "epub": "https://mises.org/system/tdf/Complete%20Libertarian%20Forum%20%281969-1984%29_Vol_1_3.epub?file=1&type=ebook",
         "amazon": "https://alexa.design/2nzfKyJ"
-      }
+      },
+      "recommended": "n"
     },
     {
       "title": "Economics Depressions: Their Cause and Cure",
@@ -301,7 +318,8 @@
         "pdf": "https://mises.org/system/tdf/Economic%20Depressions%20Their%20Cause%20and%20Cure_4.pdf?file=1&type=document",
         "epub": "https://mises.org/system/tdf/Economic%20Depressions%20Their%20Cause%20and%20Cure_4.epub?file=1&type=ebook",
         "amazon": "https://alexa.design/2p1q2os"
-      }
+      },
+      "recommended": "n"
     },
     {
       "title": "The Origins of the Federal Reserve",
@@ -317,7 +335,8 @@
         "pdf": "https://mises.org/system/tdf/The%20Origins%20of%20the%20Federal%20Reserve_2.pdf?file=1&type=document",
         "epub": "https://mises.org/system/tdf/The%20Origins%20of%20the%20Federal%20Reserve_2.epub?file=1&type=ebook",
         "amazon": "https://alexa.design/2o1V3aS"
-      }
+      },
+      "recommended": "n"
     },
     {
       "title": "History of Money and Banking in the United States: The Colonial Era to World War II",
@@ -332,7 +351,8 @@
         "pdf": "https://mises.org/system/tdf/History%20of%20Money%20and%20Banking%20in%20the%20United%20States%20The%20Colonial%20Era%20to%20World%20War%20II_2.pdf?file=1&type=document",
         "epub": "https://mises.org/system/tdf/History%20of%20Money%20and%20Banking%20in%20the%20United%20States%20The%20Colonial%20Era%20to%20World%20War%20II_2.epub?file=1&type=ebook",
         "amazon": "https://alexa.design/2o2eXCs"
-      }
+      },
+      "recommended": "n"
     },
     {
       "title": "Making Economic Sense",
@@ -349,7 +369,8 @@
         "pdf": "https://mises.org/system/tdf/Anatomy%20of%20the%20State_3.pdf?file=1&type=document",
         "epub": "https://mises.org/system/tdf/Making%20Economic%20Sense_3.epub?file=1&type=ebook",
         "amazon": "http://amzn.to/2p1Dt7V"
-      }
+      },
+      "recommended": "n"
     },
     {
       "title": "The Case Against the Fed",
@@ -364,7 +385,8 @@
         "pdf": "https://mises.org/system/tdf/The%20Case%20Against%20the%20Fed_3.pdf?file=1&type=document",
         "epub": "https://mises.org/system/tdf/The%20Case%20Against%20the%20Fed_2.epub?file=1&type=ebook",
         "amazon": "http://amzn.to/2nzo3KI"
-      }
+      },
+      "recommended": "n"
     },
     {
       "title": "Ludwig von Mises: Scholar, Creator, Hero",
@@ -377,7 +399,8 @@
       "urls": {
         "pdf": "https://mises.org/system/tdf/Ludwig%20von%20Mises%20Scholar%2C%20Creator%2C%20Hero_8.pdf?file=1&type=document",
         "amazon": "http://amzn.to/2oZKuJb"
-      }
+      },
+      "recommended": "n"
     },
     {
       "title": "Wall Street, Banks, and American Foreign Policy",
@@ -393,7 +416,8 @@
         "pdf": "https://mises.org/system/tdf/Wall%20Street%2C%20Banks%2C%20and%20American%20Foreign%20Policy_2.pdf?file=1&type=document",
         "epub": "https://mises.org/system/tdf/Wall%20Street%2C%20Banks%2C%20and%20American%20Foreign%20Policy_2.epub?file=1&type=ebook",
         "amazon": "http://amzn.to/2o29qMi"
-      }
+      },
+      "recommended": "n"
     },
     {
       "title": "The Mystery of Banking",
@@ -408,7 +432,8 @@
         "pdf": "https://mises.org/system/tdf/Mystery%20of%20Banking_2.pdf?file=1&type=document",
         "epub": "https://mises.org/system/tdf/Mystery%20of%20Banking_2.epub?file=1&type=ebook",
         "amazon": "http://amzn.to/2otKMHl"
-      }
+      },
+      "recommended": "n"
     },
     {
       "title": "Education: Free and Compulsory",
@@ -422,7 +447,8 @@
         "pdf": "https://mises.org/system/tdf/Education%20Free%20and%20Compulsory_3.pdf?file=1&type=document",
         "epub": "https://mises.org/system/tdf/Education%20Free%20and%20Compulsory_3.epub?file=1&type=ebook",
         "amazon": "http://amzn.to/2o1VHFi"
-      }
+      },
+      "recommended": "n"
     },
     {
       "title": "The Betrayal of the American Right",
@@ -439,7 +465,8 @@
         "pdf": "https://mises.org/system/tdf/The%20Betrayal%20of%20the%20American%20Right_2.pdf?file=1&type=document",
         "epub": "https://mises.org/system/tdf/The%20Betrayal%20of%20the%20American%20Right_2.epub?file=1&type=ebook",
         "amazon": "http://amzn.to/2nztNnO"
-      }
+      },
+      "recommended": "n"
     },
     {
       "title": "The Essential von Mises",
@@ -452,7 +479,8 @@
       "urls": {
         "pdf": "https://mises.org/system/tdf/The%20Essential%20von%20Mises_3.pdf?file=1&type=document",
         "amazon": "http://amzn.to/2nXsnyG"
-      }
+      },
+      "recommended": "n"
     },
     {
       "title": "What Has Government Done to Our Money?",
@@ -467,7 +495,8 @@
         "pdf": "https://mises.org/system/tdf/What%20Has%20Government%20Done%20to%20Our%20Money_3.pdf?file=1&type=document",
         "epub": "https://mises.org/system/tdf/What%20Has%20Government%20Done%20to%20Our%20Money_3.epub?file=1&type=ebook",
         "amazon": "http://amzn.to/2oSWjky"
-      }
+      },
+      "recommended": "n"
     },
     {
       "title": "America's Great Depression",
@@ -485,7 +514,8 @@
         "pdf": "https://mises.org/system/tdf/Americas%20Great%20Depression_3.pdf?file=1&type=document",
         "epub": "https://mises.org/system/tdf/Americas%20Great%20Depression_3.epub?file=1&type=ebook",
         "amazon": "http://amzn.to/2o2b2Wj"
-      }
+      },
+      "recommended": "n"
     },
     {
       "title": "The Panic of 1819: Reactions and Policies",
@@ -502,7 +532,8 @@
         "pdf": "https://mises.org/system/tdf/The%20Panic%20of%201819%20Reactions%20and%20Policies_2.pdf?file=1&type=document",
         "epub": "https://mises.org/system/tdf/The%20Panic%20of%201819%20Reactions%20and%20Policies_2.epub?file=1&type=ebook",
         "amazon": "http://amzn.to/2olM72y"
-      }
+      },
+      "recommended": "n"
     },
     {
       "title": "The Case for a 100 Percent Gold Dollar",
@@ -517,7 +548,8 @@
       "urls": {
         "pdf": "https://mises.org/system/tdf/Case%20for%20a%20100%20Percent%20Gold%20Dollar_2.pdf?file=1&type=document",
         "amazon": "http://amzn.to/2nzqdKk"
-      }
+      },
+      "recommended": "n"
     },
     {
       "title": "A Genuine Gold Dollar vs. The Federal Reserve",
@@ -531,7 +563,8 @@
       ],
       "urls": {
         "pdf": "https://mises.org/system/tdf/A%20Genuine%20Gold%20Dollar%20vs%20The%20Federal%20Reserve.pdf?file=1&type=document"
-      }
+      },
+      "recommended": "n"
     },
     {
       "title": "Democracy: The God that Failed",
@@ -546,7 +579,8 @@
       ],
       "urls": {
         "amazon": "http://amzn.to/2p5hGPY"
-      }
+      },
+      "recommended": "y"
     },
     {
       "title": "A Short History of Man: Progress and Decline",
@@ -561,7 +595,8 @@
         "pdf": "https://mises.org/system/tdf/A%20Short%20History%20of%20Man%20%E2%80%94%20Progress%20and%20Decline.pdf?file=1&type=document",
         "epub": "https://mises.org/system/tdf/ShortHistoryofMan.epub?file=1&type=ebook",
         "amazon": "http://amzn.to/2p5j9FD"
-      }
+      },
+      "recommended": "n"
     },
     {
       "title": "From Aristocracy to Monarchy to Democracy",
@@ -577,7 +612,8 @@
         "pdf": "https://mises.org/system/tdf/From%20Aristocracy%20to%20Monarchy%20to%20Democracy_Hoppe_Text%202014.pdf?file=1&type=document",
         "epub": "https://mises.org/system/tdf/FromAristocracytoMonarchytoDemocracy.epub?file=1&type=ebook",
         "amazon": "http://amzn.to/2oy6DLH"
-      }
+      },
+      "recommended": "n"
     },
     {
       "title": "Natural Elites, Intellectuals, and the State",
@@ -591,7 +627,8 @@
       ],
       "urls": {
         "amazon": "http://amzn.to/2p5iCnb"
-      }
+      },
+      "recommended": "n"
     },
     {
       "title": "What Must Be Done",
@@ -606,7 +643,8 @@
         "pdf": "https://mises.org/system/tdf/What%20Must%20Be%20Done_7.pdf?file=1&type=document",
         "epub": "https://mises.org/system/tdf/What%20Must%20Be%20Done_5.epub?file=1&type=ebook",
         "amazon": "http://amzn.to/2ohDBhT"
-      }
+      },
+      "recommended": "n"
     },
     {
       "title": "The Myth of National Defense: Essays on the Theory and History of Security Production",
@@ -622,7 +660,8 @@
         "pdf": "https://mises.org/system/tdf/Myth%20of%20National%20Defense%2C%20The%20Essays%20on%20the%20Theory%20and%20History%20of%20Security%20Production_3.pdf?file=1&type=document",
         "epub": "https://mises.org/system/tdf/Myth%20of%20National%20Defense%2C%20The%20Essays%20on%20the%20Theory%20and%20History%20of%20Security%20Production_3.epub?file=1&type=ebook",
         "amazon": "http://amzn.to/2p5lHDS"
-      }
+      },
+      "recommended": "n"
     },
     {
       "title": "The Private Production of Defense",
@@ -637,7 +676,8 @@
         "pdf": "https://mises.org/system/tdf/The%20Private%20Production%20of%20Defense_3.pdf?file=1&type=document",
         "epub": "https://mises.org/system/tdf/The%20Private%20Production%20of%20Defense_.epub?file=1&type=ebook",
         "amazon": "http://amzn.to/2ohUjxs"
-      }
+      },
+      "recommended": "n"
     },
     {
       "title": "Economic Science and the Austrian Method",
@@ -653,7 +693,8 @@
         "pdf": "https://mises.org/system/tdf/Economic%20Science%20and%20the%20Austrian%20Method_3.pdf?file=1&type=document",
         "epub": "https://mises.org/system/tdf/Economic%20Science%20and%20the%20Austrian%20Method_3.epub?file=1&type=ebook",
         "amazon": "http://amzn.to/2oy0sYf"
-      }
+      },
+      "recommended": "n"
     },
     {
       "title": "The Economics and Ethics of Private Property",
@@ -669,7 +710,8 @@
         "pdf": "https://mises.org/system/tdf/Economics%20and%20Ethics%20of%20Private%20Property%20Studies%20in%20Political%20Economy%20and%20Philosophy_3.pdf?file=1&type=document",
         "epub": "https://mises.org/system/tdf/Economics%20and%20Ethics%20of%20Private%20Property%20Studies%20in%20Political%20Economy%20and%20Philosophy_3.epub?file=1&type=ebook",
         "amazon": "http://amzn.to/2pmBFq6"
-      }
+      },
+      "recommended": "n"
     },
     {
       "title": "A Theory of Socialism and Capitalism",
@@ -685,7 +727,8 @@
         "pdf": "https://mises.org/system/tdf/Theory%20of%20Socialism%20and%20Capitalism%2C%20A_4.pdf?file=1&type=document",
         "epub": "https://mises.org/system/tdf/Theory%20of%20Socialism%20and%20Capitalism%2C%20A_4.epub?file=1&type=ebook",
         "amazon": "http://amzn.to/2ohP292"
-      }
+      },
+      "recommended": "n"
     },
     {
       "title": "The State of the Union",
@@ -698,7 +741,8 @@
       ],
       "urls": {
         "amazon": "http://amzn.to/2oBAweg"
-      }
+      },
+      "recommended": "n"
     },
     {
       "title": "Our Enemy, the State",
@@ -711,7 +755,8 @@
       ],
       "urls": {
         "amazon": "http://amzn.to/2oBMYLa"
-      }
+      },
+      "recommended": "y"
     },
     {
       "title": "Cogitations from Albert Jay Nock",
@@ -724,7 +769,8 @@
       "urls": {
         "pdf": "https://mises.org/system/tdf/Cogitations%20from%20Albert%20Jay%20Nock_2.pdf?file=1&type=document",
         "amazon": "http://amzn.to/2oBuaeN"
-      }
+      },
+      "recommended": "n"
     },
     {
       "title": "Snoring as a Fine Art, and Twelve Other Essays",
@@ -738,7 +784,8 @@
         "pdf": "https://mises.org/system/tdf/Snoring%20as%20a%20Fine%20Art%2C%20and%20Twelve%20Other%20Essays_2.pdf?file=1&type=document",
         "epub": "https://mises.org/system/tdf/Snoring%20as%20a%20Fine%20Art%2C%20and%20Twelve%20Other%20Essays_2.epub?file=1&type=ebook",
         "amazon": "http://amzn.to/2oE2GH7"
-      }
+      },
+      "recommended": "n"
     },
     {
       "title": "Memoirs of a Superfluous Man",
@@ -752,7 +799,8 @@
         "pdf": "https://mises.org/system/tdf/nockmemoirs.pdf?file=1&type=document",
         "epub": "https://mises.org/system/tdf/Memoirs%20of%20a%20Superfluous%20Man_2.epub?file=1&type=ebook",
         "amazon": "http://amzn.to/2oBvbDV"
-      }
+      },
+      "recommended": "n"
     },
     {
       "title": "The Theory of Education in the United States",
@@ -766,7 +814,8 @@
         "pdf": "https://mises.org/system/tdf/The%20Theory%20of%20Education%20in%20the%20United%20States%20The%20Page-Barbour%20Lectures%20for%201931%20at%20the%20University%20of%20Virginia_2.pdf?file=1&type=document",
         "epub": "https://mises.org/system/tdf/The%20Theory%20of%20Education%20in%20the%20United%20States%20The%20Page-Barbour%20Lectures%20for%201931%20at%20the%20University%20of%20Virginia_2.epub?file=1&type=ebook",
         "amazon": "http://amzn.to/2pr4qlk"
-      }
+      },
+      "recommended": "n"
     },
     {
       "title": "The Book of Journeyman: Essays from the New Freeman",
@@ -780,7 +829,8 @@
       ],
       "urls": {
         "pdf": "https://mises.org/system/tdf/The%20Book%20of%20Journeyman%20Essays%20from%20the%20New%20Freeman_2.pdf?file=1&type=document"
-      }
+      },
+      "recommended": "n"
     },
     {
       "title": "On Doing the Right Thing",
@@ -794,7 +844,8 @@
         "pdf": "https://mises.org/system/tdf/On%20Doing%20the%20Right%20Thing_2.pdf?file=1&type=document",
         "epub": "https://mises.org/system/tdf/On%20Doing%20the%20Right%20Thing_Vol_2_2.epub?file=1&type=ebook",
         "amazon": "http://amzn.to/2prab2D"
-      }
+      },
+      "recommended": "n"
     },
     {
       "title": "Jefferson",
@@ -809,7 +860,8 @@
         "pdf": "https://mises.org/system/tdf/Jefferson_2.pdf?file=1&type=document",
         "epub": "https://mises.org/system/tdf/Jefferson_2.epub?file=1&type=ebook",
         "amazon": "http://amzn.to/2oBODAo"
-      }
+      },
+      "recommended": "n"
     },
     {
       "title": "The Freeman Book",
@@ -823,7 +875,8 @@
         "pdf": "https://mises.org/system/tdf/The%20Freeman%20Book_2.pdf?file=1&type=document",
         "epub": "https://mises.org/system/tdf/The%20Freeman%20Book_2.epub?file=1&type=ebook",
         "amazon": "http://amzn.to/2prcwum"
-      }
+      },
+      "recommended": "n"
     },
     {
       "title": "The Myth of a Guilty Nation",
@@ -838,7 +891,8 @@
         "pdf": "https://mises.org/system/tdf/The%20Myth%20of%20a%20Guilty%20Nation_2.pdf?file=1&type=document",
         "epub": "https://mises.org/system/tdf/The%20Myth%20of%20a%20Guilty%20Nation_2.epub?file=1&type=ebook",
         "amazon": "http://amzn.to/2oNUOmR"
-      }
+      },
+      "recommended": "n"
     },
     {
       "title": "A Tiger by the Tail: The Keynesian Legacy of Inflation",
@@ -853,7 +907,8 @@
         "pdf": "https://mises.org/system/tdf/Tiger%20by%20the%20Tail_5.pdf?file=1&type=document",
         "epub": "https://mises.org/system/tdf/Tiger%20by%20the%20Tail_5.epub?file=1&type=ebook",
         "amazon": "http://amzn.to/2nSEUZj"
-      }
+      },
+      "recommended": "n"
     },
     {
       "title": "The Fortunes of Liberalism: Essays on Austrian Economics and the Ideal of Freedom",
@@ -866,7 +921,8 @@
       ],
       "urls": {
         "amazon": "http://amzn.to/2nSDxtF"
-      }
+      },
+      "recommended": "n"
     },
     {
       "title": "The Trend of Economic Thinking: Essays on Political Economists and Economic History",
@@ -878,7 +934,8 @@
       ],
       "urls": {
         "amazon": "http://amzn.to/2oE8u3x"
-      }
+      },
+      "recommended": "n"
     },
     {
       "title": "Denationalisation of Money: The Argument Refined",
@@ -892,7 +949,8 @@
         "pdf": "https://mises.org/system/tdf/Denationalisation%20of%20Money%20The%20Argument%20Refined_5.pdf?file=1&type=document",
         "epub": "https://mises.org/system/tdf/Denationalisation%20of%20Money%20The%20Argument%20Refined_5.epub?file=1&type=ebook",
         "amazon": "http://amzn.to/2nSIumh"
-      }
+      },
+      "recommended": "n"
     },
     {
       "title": "Choice in Currency: A Way to Stop Inflation",
@@ -906,7 +964,8 @@
         "pdf": "https://mises.org/system/tdf/Choice%20in%20Currency_5.pdf?file=1&type=document",
         "epub": "https://mises.org/system/tdf/Choice%20in%20Currency_5.epub?file=1&type=ebook",
         "amazon": "http://amzn.to/2nSFJBu"
-      }
+      },
+      "recommended": "n"
     },
     {
       "title": "Profits, Interest, and Investment",
@@ -919,7 +978,8 @@
       ],
       "urls": {
         "pdf": "https://mises.org/system/tdf/Profits%2C%20Interest%2C%20and%20Investment_5.pdf?file=1&type=document"
-      }
+      },
+      "recommended": "n"
     },
     {
       "title": "A Free Market Monetary System and The Pretense of Knowledge",
@@ -934,7 +994,8 @@
         "pdf": "https://mises.org/system/tdf/A%20Free-Market%20Monetary%20System%20and%20The%20Pretense%20of%20Knowledge_4.pdf?file=1&type=document",
         "epub": "https://mises.org/system/tdf/A%20Free-Market%20Monetary%20System%20and%20The%20Pretense%20of%20Knowledge_4.epub?file=1&type=ebook",
         "amazon": "http://amzn.to/2oNJyal"
-      }
+      },
+      "recommended": "n"
     },
     {
       "title": "Capitalism and the Historians",
@@ -948,7 +1009,8 @@
       ],
       "urls": {
         "amazon": "http://amzn.to/2nSJCGx"
-      }
+      },
+      "recommended": "n"
     },
     {
       "title": "The Counter-Revolution of Science",
@@ -961,7 +1023,8 @@
       ],
       "urls": {
         "amazon": "http://amzn.to/2nSxiWC"
-      }
+      },
+      "recommended": "n"
     },
     {
       "title": "Individualism and Economic Order",
@@ -975,7 +1038,8 @@
         "pdf": "https://mises.org/system/tdf/Individualism%20and%20Economic%20Order_4.pdf?file=1&type=document",
         "epub": "https://mises.org/system/tdf/Individualism%20and%20Economic%20Order_4.epub?file=1&type=ebook",
         "amazon": "http://amzn.to/2okM2ZD"
-      }
+      },
+      "recommended": "n"
     },
     {
       "title": "The Road to Serfdom",
@@ -989,7 +1053,8 @@
       "urls": {
         "pdf": "https://mises.org/system/tdf/Road%20to%20serfdom.pdf?file=1&type=document",
         "amazon": "http://amzn.to/2oBJOXu"
-      }
+      },
+      "recommended": "y"
     },
     {
       "title": "The Pure Theory of Capital",
@@ -1003,7 +1068,8 @@
       "urls": {
         "pdf": "https://mises.org/system/tdf/Pure%20Theory%20of%20Capital_4.pdf?file=1&type=document",
         "amazon": "http://amzn.to/2oNRp7I"
-      }
+      },
+      "recommended": "n"
     },
     {
       "title": "Monetary Nationalism and International Stability",
@@ -1017,7 +1083,8 @@
       "urls": {
         "pdf": "https://mises.org/system/tdf/Monetary%20Nationalism%20and%20International%20Stability_5.pdf?file=1&type=document",
         "amazon": "http://amzn.to/2pnmeRk"
-      }
+      },
+      "recommended": "n"
     },
     {
       "title": "Collectivist Economic Planning",
@@ -1033,7 +1100,8 @@
         "pdf": "https://mises.org/system/tdf/Collectivist%20Economic%20Planning_2.pdf?file=1&type=document",
         "epub": "https://mises.org/system/tdf/Collectivist%20Economic%20Planning_2.epub?file=1&type=ebook",
         "amazon": "http://amzn.to/2nSKScC"
-      }
+      },
+      "recommended": "n"
     },
     {
       "title": "Prices and Production",
@@ -1049,7 +1117,8 @@
         "pdf": "https://mises.org/system/tdf/Prices%20and%20Production_5.pdf?file=1&type=document",
         "epub": "https://mises.org/system/tdf/Prices%20and%20Production_5.epub?file=1&type=ebook",
         "amazon": "http://amzn.to/2nSWs7t"
-      }
+      },
+      "recommended": "n"
     },
     {
       "title": "Monetary Theory and the Trade Cycle",
@@ -1063,7 +1132,8 @@
       "urls": {
         "pdf": "https://mises.org/system/tdf/Monetary%20Theory%20and%20the%20Trade%20Cycle_5.pdf?file=1&type=document",
         "amazon": "http://amzn.to/2oBB5VB"
-      }
+      },
+      "recommended": "n"
     }
   ]
 }

@@ -16,9 +16,10 @@ class Books extends Component {
     }
 
     updateFilter() {
-        const titleValue = document.getElementById('title-filter').value
+        const titleValue = document.getElementById('title-filter').value.toLowerCase()
         const authorValue = document.getElementById('author-filter').value
         const categoryValue = document.getElementById('category-filter').value
+        const recommendedValue = document.getElementById('recommended-filter').checked
         
         let filteredBooks = data.books.filter(book => {
             if (book.title.toLowerCase().includes(titleValue)) return true
@@ -35,6 +36,13 @@ class Books extends Component {
             return false
         })
 
+        if (recommendedValue) {
+            filteredBooks = filteredBooks.filter(book => {
+                if (book.recommended === 'y') return true
+                return false
+            })
+        }
+
         this.setState({
             books: filteredBooks
         })
@@ -49,7 +57,7 @@ class Books extends Component {
                         <div className="field">
                             <label className="label">Title</label>
                             <p className="control">
-                                <input className="input" type="text" id="title-filter" onChange={this.updateFilter}/>
+                                <input className="input" type="text" id="title-filter" onChange={this.updateFilter} placeholder="Filter by title..."/>
                             </p>
                         </div>
 
@@ -74,6 +82,14 @@ class Books extends Component {
                                         {this.state.categories.map(category => (<option value={category}>{category}</option>))}
                                     </select>
                                 </span>
+                            </p>
+                        </div>
+
+                        <div className="field">
+                            <p className="control">
+                                <label className="label">
+                                    <input id="recommended-filter" onChange={this.updateFilter} type="checkbox"/> Recommended Reading
+                                </label>
                             </p>
                         </div>
 
