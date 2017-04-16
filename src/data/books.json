@@ -1,7 +1,9 @@
 {
   "authors": [
     "Claude Frédéric Bastiat",
+    "Friedrich A. Hayek",
     "Hans-Hermann Hoppe",
+    "Albert Jay Nock",
     "Murray N. Rothbard"
   ],
   "categories": [
@@ -10,6 +12,8 @@
     "Biographies",
     "Booms and Busts",
     "Business Cycles",
+    "Calculation and Knowledge",
+    "Capital and Interest Theory",
     "Education",
     "The Federal Reserve",
     "Free Markets",
@@ -25,6 +29,7 @@
     "Political Theory",
     "Praxeology",
     "Private Property",
+    "Production Theory",
     "U.S. Economy",
     "U.S. History",
     "War and Foreign Policy",
@@ -680,6 +685,384 @@
         "pdf": "https://mises.org/system/tdf/Theory%20of%20Socialism%20and%20Capitalism%2C%20A_4.pdf?file=1&type=document",
         "epub": "https://mises.org/system/tdf/Theory%20of%20Socialism%20and%20Capitalism%2C%20A_4.epub?file=1&type=ebook",
         "amazon": "http://amzn.to/2ohP292"
+      }
+    },
+    {
+      "title": "The State of the Union",
+      "authors": [
+        "Albert Jay Nock"
+      ],
+      "categories": [
+        "Media and Culture",
+        "Political Theory"
+      ],
+      "urls": {
+        "amazon": "http://amzn.to/2oBAweg"
+      }
+    },
+    {
+      "title": "Our Enemy, the State",
+      "authors": [
+        "Albert Jay Nock"
+      ],
+      "categories": [
+        "Philosophy and Methodology",
+        "Political Theory"
+      ],
+      "urls": {
+        "amazon": "http://amzn.to/2oBMYLa"
+      }
+    },
+    {
+      "title": "Cogitations from Albert Jay Nock",
+      "authors": [
+        "Albert Jay Nock"
+      ],
+      "categories": [
+        "Political Theory"
+      ],
+      "urls": {
+        "pdf": "https://mises.org/system/tdf/Cogitations%20from%20Albert%20Jay%20Nock_2.pdf?file=1&type=document",
+        "amazon": "http://amzn.to/2oBuaeN"
+      }
+    },
+    {
+      "title": "Snoring as a Fine Art, and Twelve Other Essays",
+      "authors": [
+        "Albert Jay Nock"
+      ],
+      "categories": [
+        "Media and Culture"
+      ],
+      "urls": {
+        "pdf": "https://mises.org/system/tdf/Snoring%20as%20a%20Fine%20Art%2C%20and%20Twelve%20Other%20Essays_2.pdf?file=1&type=document",
+        "epub": "https://mises.org/system/tdf/Snoring%20as%20a%20Fine%20Art%2C%20and%20Twelve%20Other%20Essays_2.epub?file=1&type=ebook",
+        "amazon": "http://amzn.to/2oE2GH7"
+      }
+    },
+    {
+      "title": "Memoirs of a Superfluous Man",
+      "authors": [
+        "Albert Jay Nock"
+      ],
+      "categories": [
+        "Biographies"
+      ],
+      "urls": {
+        "pdf": "https://mises.org/system/tdf/nockmemoirs.pdf?file=1&type=document",
+        "epub": "https://mises.org/system/tdf/Memoirs%20of%20a%20Superfluous%20Man_2.epub?file=1&type=ebook",
+        "amazon": "http://amzn.to/2oBvbDV"
+      }
+    },
+    {
+      "title": "The Theory of Education in the United States",
+      "authors": [
+        "Albert Jay Nock"
+      ],
+      "categories": [
+        "Education"
+      ],
+      "urls": {
+        "pdf": "https://mises.org/system/tdf/The%20Theory%20of%20Education%20in%20the%20United%20States%20The%20Page-Barbour%20Lectures%20for%201931%20at%20the%20University%20of%20Virginia_2.pdf?file=1&type=document",
+        "epub": "https://mises.org/system/tdf/The%20Theory%20of%20Education%20in%20the%20United%20States%20The%20Page-Barbour%20Lectures%20for%201931%20at%20the%20University%20of%20Virginia_2.epub?file=1&type=ebook",
+        "amazon": "http://amzn.to/2pr4qlk"
+      }
+    },
+    {
+      "title": "The Book of Journeyman: Essays from the New Freeman",
+      "authors": [
+        "Albert Jay Nock"
+      ],
+      "categories": [
+        "Media and Culture",
+        "Political Theory",
+        "War and Foreign Policy"
+      ],
+      "urls": {
+        "pdf": "https://mises.org/system/tdf/The%20Book%20of%20Journeyman%20Essays%20from%20the%20New%20Freeman_2.pdf?file=1&type=document"
+      }
+    },
+    {
+      "title": "On Doing the Right Thing",
+      "authors": [
+        "Albert Jay Nock"
+      ],
+      "categories": [
+        "Biographies"
+      ],
+      "urls": {
+        "pdf": "https://mises.org/system/tdf/On%20Doing%20the%20Right%20Thing_2.pdf?file=1&type=document",
+        "epub": "https://mises.org/system/tdf/On%20Doing%20the%20Right%20Thing_Vol_2_2.epub?file=1&type=ebook",
+        "amazon": "http://amzn.to/2prab2D"
+      }
+    },
+    {
+      "title": "Jefferson",
+      "authors": [
+        "Albert Jay Nock"
+      ],
+      "categories": [
+        "Biographies",
+        "U.S. History"
+      ],
+      "urls": {
+        "pdf": "https://mises.org/system/tdf/Jefferson_2.pdf?file=1&type=document",
+        "epub": "https://mises.org/system/tdf/Jefferson_2.epub?file=1&type=ebook",
+        "amazon": "http://amzn.to/2oBODAo"
+      }
+    },
+    {
+      "title": "The Freeman Book",
+      "authors": [
+        "Albert Jay Nock"
+      ],
+      "categories": [
+        "Media and Culture"
+      ],
+      "urls": {
+        "pdf": "https://mises.org/system/tdf/The%20Freeman%20Book_2.pdf?file=1&type=document",
+        "epub": "https://mises.org/system/tdf/The%20Freeman%20Book_2.epub?file=1&type=ebook",
+        "amazon": "http://amzn.to/2prcwum"
+      }
+    },
+    {
+      "title": "The Myth of a Guilty Nation",
+      "authors": [
+        "Albert Jay Nock"
+      ],
+      "categories": [
+        "War and Foreign Policy",
+        "World History"
+      ],
+      "urls": {
+        "pdf": "https://mises.org/system/tdf/The%20Myth%20of%20a%20Guilty%20Nation_2.pdf?file=1&type=document",
+        "epub": "https://mises.org/system/tdf/The%20Myth%20of%20a%20Guilty%20Nation_2.epub?file=1&type=ebook",
+        "amazon": "http://amzn.to/2oNUOmR"
+      }
+    },
+    {
+      "title": "A Tiger by the Tail: The Keynesian Legacy of Inflation",
+      "authors": [
+        "Friedrich A. Hayek"
+      ],
+      "categories": [
+        "Booms and Busts",
+        "Business Cycles"
+      ],
+      "urls": {
+        "pdf": "https://mises.org/system/tdf/Tiger%20by%20the%20Tail_5.pdf?file=1&type=document",
+        "epub": "https://mises.org/system/tdf/Tiger%20by%20the%20Tail_5.epub?file=1&type=ebook",
+        "amazon": "http://amzn.to/2nSEUZj"
+      }
+    },
+    {
+      "title": "The Fortunes of Liberalism: Essays on Austrian Economics and the Ideal of Freedom",
+      "authors": [
+        "Friedrich A. Hayek"
+      ],
+      "categories": [
+        "Austrian Economics Overview",
+        "Philosophy and Methodology"
+      ],
+      "urls": {
+        "amazon": "http://amzn.to/2nSDxtF"
+      }
+    },
+    {
+      "title": "The Trend of Economic Thinking: Essays on Political Economists and Economic History",
+      "authors": [
+        "Friedrich A. Hayek"
+      ],
+      "categories": [
+        "Philosophy and Methodology"
+      ],
+      "urls": {
+        "amazon": "http://amzn.to/2oE8u3x"
+      }
+    },
+    {
+      "title": "Denationalisation of Money: The Argument Refined",
+      "authors": [
+        "Friedrich A. Hayek"
+      ],
+      "categories": [
+        "Monetary Theory"
+      ],
+      "urls": {
+        "pdf": "https://mises.org/system/tdf/Denationalisation%20of%20Money%20The%20Argument%20Refined_5.pdf?file=1&type=document",
+        "epub": "https://mises.org/system/tdf/Denationalisation%20of%20Money%20The%20Argument%20Refined_5.epub?file=1&type=ebook",
+        "amazon": "http://amzn.to/2nSIumh"
+      }
+    },
+    {
+      "title": "Choice in Currency: A Way to Stop Inflation",
+      "authors": [
+        "Friedrich A. Hayek"
+      ],
+      "categories": [
+        "Monetary Theory"
+      ],
+      "urls": {
+        "pdf": "https://mises.org/system/tdf/Choice%20in%20Currency_5.pdf?file=1&type=document",
+        "epub": "https://mises.org/system/tdf/Choice%20in%20Currency_5.epub?file=1&type=ebook",
+        "amazon": "http://amzn.to/2nSFJBu"
+      }
+    },
+    {
+      "title": "Profits, Interest, and Investment",
+      "authors": [
+        "Friedrich A. Hayek"
+      ],
+      "categories": [
+        "Capital and Interest Theory",
+        "Production Theory"
+      ],
+      "urls": {
+        "pdf": "https://mises.org/system/tdf/Profits%2C%20Interest%2C%20and%20Investment_5.pdf?file=1&type=document"
+      }
+    },
+    {
+      "title": "A Free Market Monetary System and The Pretense of Knowledge",
+      "authors": [
+        "Friedrich A. Hayek"
+      ],
+      "categories": [
+        "Gold Standard",
+        "Money and Banking"
+      ],
+      "urls": {
+        "pdf": "https://mises.org/system/tdf/A%20Free-Market%20Monetary%20System%20and%20The%20Pretense%20of%20Knowledge_4.pdf?file=1&type=document",
+        "epub": "https://mises.org/system/tdf/A%20Free-Market%20Monetary%20System%20and%20The%20Pretense%20of%20Knowledge_4.epub?file=1&type=ebook",
+        "amazon": "http://amzn.to/2oNJyal"
+      }
+    },
+    {
+      "title": "Capitalism and the Historians",
+      "authors": [
+        "Friedrich A. Hayek"
+      ],
+      "categories": [
+        "Booms and Busts",
+        "Production Theory",
+        "World History"
+      ],
+      "urls": {
+        "amazon": "http://amzn.to/2nSJCGx"
+      }
+    },
+    {
+      "title": "The Counter-Revolution of Science",
+      "authors": [
+        "Friedrich A. Hayek"
+      ],
+      "categories": [
+        "Other Schools of Thought",
+        "Philosophy and Methodology"
+      ],
+      "urls": {
+        "amazon": "http://amzn.to/2nSxiWC"
+      }
+    },
+    {
+      "title": "Individualism and Economic Order",
+      "authors": [
+        "Friedrich A. Hayek"
+      ],
+      "categories": [
+        "Calculation and Knowledge"
+      ],
+      "urls": {
+        "pdf": "https://mises.org/system/tdf/Individualism%20and%20Economic%20Order_4.pdf?file=1&type=document",
+        "epub": "https://mises.org/system/tdf/Individualism%20and%20Economic%20Order_4.epub?file=1&type=ebook",
+        "amazon": "http://amzn.to/2okM2ZD"
+      }
+    },
+    {
+      "title": "The Road to Serfdom",
+      "authors": [
+        "Friedrich A. Hayek"
+      ],
+      "categories": [
+        "Big Government",
+        "World History"
+      ],
+      "urls": {
+        "pdf": "https://mises.org/system/tdf/Road%20to%20serfdom.pdf?file=1&type=document",
+        "amazon": "http://amzn.to/2oBJOXu"
+      }
+    },
+    {
+      "title": "The Pure Theory of Capital",
+      "authors": [
+        "Friedrich A. Hayek"
+      ],
+      "categories": [
+        "Booms and Busts",
+        "Capital and Interest Theory"
+      ],
+      "urls": {
+        "pdf": "https://mises.org/system/tdf/Pure%20Theory%20of%20Capital_4.pdf?file=1&type=document",
+        "amazon": "http://amzn.to/2oNRp7I"
+      }
+    },
+    {
+      "title": "Monetary Nationalism and International Stability",
+      "authors": [
+        "Friedrich A. Hayek"
+      ],
+      "categories": [
+        "Global Economy",
+        "Money and Banking"
+      ],
+      "urls": {
+        "pdf": "https://mises.org/system/tdf/Monetary%20Nationalism%20and%20International%20Stability_5.pdf?file=1&type=document",
+        "amazon": "http://amzn.to/2pnmeRk"
+      }
+    },
+    {
+      "title": "Collectivist Economic Planning",
+      "authors": [
+        "Friedrich A. Hayek"
+      ],
+      "categories": [
+        "Big Government",
+        "Calculation and Knowledge",
+        "Other Schools of Thought"
+      ],
+      "urls": {
+        "pdf": "https://mises.org/system/tdf/Collectivist%20Economic%20Planning_2.pdf?file=1&type=document",
+        "epub": "https://mises.org/system/tdf/Collectivist%20Economic%20Planning_2.epub?file=1&type=ebook",
+        "amazon": "http://amzn.to/2nSKScC"
+      }
+    },
+    {
+      "title": "Prices and Production",
+      "authors": [
+        "Friedrich A. Hayek"
+      ],
+      "categories": [
+        "Booms and Busts",
+        "Business Cycles",
+        "Production Theory"
+      ],
+      "urls": {
+        "pdf": "https://mises.org/system/tdf/Prices%20and%20Production_5.pdf?file=1&type=document",
+        "epub": "https://mises.org/system/tdf/Prices%20and%20Production_5.epub?file=1&type=ebook",
+        "amazon": "http://amzn.to/2nSWs7t"
+      }
+    },
+    {
+      "title": "Monetary Theory and the Trade Cycle",
+      "authors": [
+        "Friedrich A. Hayek"
+      ],
+      "categories": [
+        "Booms and Busts",
+        "Monetary Theory"
+      ],
+      "urls": {
+        "pdf": "https://mises.org/system/tdf/Monetary%20Theory%20and%20the%20Trade%20Cycle_5.pdf?file=1&type=document",
+        "amazon": "http://amzn.to/2oBB5VB"
       }
     }
   ]
