@@ -1,6 +1,8 @@
 const path = require('path')
+const glob = require('glob')
 const webpack = require('webpack')
 const ExtractTextPlugin = require('extract-text-webpack-plugin')
+const PurifyCSSPlugin = require('purifycss-webpack')
 const HTMLPlugin = require('html-webpack-plugin')
 
 const DEVELOPMENT = process.env.NODE_ENV === 'development'
@@ -45,6 +47,12 @@ const extractSass = new ExtractTextPlugin({
 })
 
 plugins.push(extractSass)
+
+plugins.push(
+	new PurifyCSSPlugin({
+		paths: glob.sync(path.join(__dirname, 'dist/*.html')),
+	})
+)
 
 module.exports = {
 	entry: entry,
