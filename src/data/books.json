@@ -1,9 +1,12 @@
 {
   "authors": [
     "Claude Frédéric Bastiat",
+    "Gerard N. Casey",
     "Friedrich A. Hayek",
     "Hans-Hermann Hoppe",
     "Albert Jay Nock",
+    "Christopher Chase Rachels",
+    "Llewellyn H. Rockwell Jr.",
     "Murray N. Rothbard"
   ],
   "categories": [
@@ -496,7 +499,7 @@
         "epub": "https://mises.org/system/tdf/What%20Has%20Government%20Done%20to%20Our%20Money_3.epub?file=1&type=ebook",
         "amazon": "http://amzn.to/2oSWjky"
       },
-      "recommended": "n"
+      "recommended": "y"
     },
     {
       "title": "America's Great Depression",
@@ -728,7 +731,7 @@
         "epub": "https://mises.org/system/tdf/Theory%20of%20Socialism%20and%20Capitalism%2C%20A_4.epub?file=1&type=ebook",
         "amazon": "http://amzn.to/2ohP292"
       },
-      "recommended": "n"
+      "recommended": "y"
     },
     {
       "title": "The State of the Union",
@@ -1134,6 +1137,201 @@
         "amazon": "http://amzn.to/2oBB5VB"
       },
       "recommended": "n"
+    },
+    {
+      "title": "Against the State: An Anarcho-Capitalist Manifesto",
+      "authors": [
+        "Llewellyn H. Rockwell Jr."
+      ],
+      "categories": [
+        "Political Theory"
+      ],
+      "urls": {
+        "amazon": "http://amzn.to/2nWIAcz"
+      },
+      "recommended": "y"
+    },
+    {
+      "title": "Fascism versus Capitalism",
+      "authors": [
+        "Llewellyn H. Rockwell Jr."
+      ],
+      "categories": [
+        "Big Government",
+        "Other Schools of Thought",
+        "Political Theory"
+      ],
+      "urls": {
+        "pdf": "https://mises.org/system/tdf/Fascism%20versus%20Capitalism.pdf?file=1&type=document",
+        "epub": "https://mises.org/system/tdf/Fascism%20versus%20Capitalism.epub?file=1&type=ebook",
+        "amazon": "http://amzn.to/2nWAH6U"
+      },
+      "recommended": "n"
+    },
+    {
+      "title": "The Left, the Right, and the State",
+      "authors": [
+        "Llewellyn H. Rockwell Jr."
+      ],
+      "categories": [
+        "Big Government",
+        "Political Theory"
+      ],
+      "urls": {
+        "pdf": "https://mises.org/system/tdf/The%20Left%2C%20the%20Right%2C%20and%20the%20State_2.pdf?file=1&type=document",
+        "epub": "https://mises.org/system/tdf/The%20Left%2C%20the%20Right%2C%20and%20the%20State_2.epub?file=1&type=ebook",
+        "amazon": "http://amzn.to/2oQdLoU"
+      },
+      "recommended": "n"
+    },
+    {
+      "title": "Why Austrian Economics Matters",
+      "authors": [
+        "Llewellyn H. Rockwell Jr."
+      ],
+      "categories": [
+        "Austrian Economics Overview"
+      ],
+      "urls": {
+        "pdf": "https://mises.org/system/tdf/why_ae.pdf?file=1&type=document"
+      },
+      "recommended": "n"
+    },
+    {
+      "title": "Speaking of Liberty",
+      "authors": [
+        "Llewellyn H. Rockwell Jr."
+      ],
+      "categories": [
+        "Big Government",
+        "Free Markets"
+      ],
+      "urls": {
+        "pdf": "https://mises.org/system/tdf/Speaking%20of%20Liberty_2.pdf?file=1&type=document",
+        "epub": "https://mises.org/system/tdf/Speaking%20of%20Liberty_2.epub?file=1&type=ebook",
+        "amazon": "http://amzn.to/2nWDX21"
+      },
+      "recommended": "n"
+    },
+    {
+      "title": "The Irrepressible Rothbard",
+      "authors": [
+        "Llewellyn H. Rockwell Jr."
+      ],
+      "categories": [
+        "Big Government",
+        "Free Markets",
+        "Political Theory",
+        "War and Foreign Policy"
+      ],
+      "urls": {
+        "pdf": "https://mises.org/system/tdf/The%20Irrepressible%20Rothbard_2.pdf?file=1&type=document",
+        "epub": "https://mises.org/system/tdf/The%20Irrepressible%20Rothbard_2.epub?file=1&type=ebook"
+      },
+      "recommended": "n"
+    },
+    {
+      "title": "Murray N. Rothbard: In Memoriam",
+      "authors": [
+        "Llewellyn H. Rockwell Jr."
+      ],
+      "categories": [
+        "Biographies"
+      ],
+      "urls": {
+        "pdf": "https://mises.org/system/tdf/Murray%20N%20Rothbard%20In%20Memoriam_2.pdf?file=1&type=document"
+      },
+      "recommended": "n"
+    },
+    {
+      "title": "The Gold Standard: Perspectives in the Austrian School",
+      "authors": [
+        "Llewellyn H. Rockwell Jr."
+      ],
+      "categories": [
+        "Booms and Busts",
+        "Gold Standard",
+        "Monetary Theory",
+        "Money and Banking"
+      ],
+      "urls": {
+        "pdf": "https://mises.org/system/tdf/The%20Gold%20Standard%20Perspectives%20in%20the%20Austrian%20School_2.pdf?file=1&type=document"
+      },
+      "recommended": "n"
+    },
+    {
+      "title": "The Economics of Liberty",
+      "authors": [
+        "Llewellyn H. Rockwell Jr."
+      ],
+      "categories": [
+        "Big Government",
+        "Free Markets",
+        "Political Theory"
+      ],
+      "urls": {
+        "pdf": "https://mises.org/system/tdf/The%20Economics%20of%20Liberty_2.pdf?file=1&type=document",
+        "epub": "https://mises.org/system/tdf/The%20Economics%20of%20Liberty_2.epub?file=1&type=ebook"
+      },
+      "recommended": "n"
+    },
+    {
+      "title": "The Free Market Reader",
+      "authors": [
+        "Llewellyn H. Rockwell Jr."
+      ],
+      "categories": [
+        "Free Markets"
+      ],
+      "urls": {
+        "pdf": "https://mises.org/system/tdf/The%20Free%20Market%20Reader_2.pdf?file=1&type=document",
+        "epub": "https://mises.org/system/tdf/The%20Free%20Market%20Reader_2.epub?file=1&type=ebook"
+      },
+      "recommended": "n"
+    },
+    {
+      "title": "Man, Economy, and Liberty: Essays in Honor of Murray N. Rothbard",
+      "authors": [
+        "Llewellyn H. Rockwell Jr."
+      ],
+      "categories": [
+        "Biographies"
+      ],
+      "urls": {
+        "pdf": "https://mises.org/system/tdf/Man%2C%20Economy%2C%20and%20Liberty%20Essays%20in%20Honor%20of%20Murray%20N%20Rothbard_2.pdf?file=1&type=document",
+        "epub": "https://mises.org/system/tdf/Man%2C%20Economy%2C%20and%20Liberty%20Essays%20in%20Honor%20of%20Murray%20N%20Rothbard_2.epub?file=1&type=ebook"
+      },
+      "recommended": "n"
+    },
+    {
+      "title": "A Spontaneous Order: The Capitalist Case for a Stateless Society",
+      "authors": [
+        "Christopher Chase Rachels"
+      ],
+      "categories": [
+        "Austrian Economics Overview",
+        "Political Theory"
+      ],
+      "urls": {
+        "pdf": "https://mises.org/system/tdf/A-Spontaneous-Order_0.pdf?file=1&type=document",
+        "amazon": "http://amzn.to/2oQ47CQ"
+      },
+      "recommended": "y"
+    },
+    {
+      "title": "Libertarian Anarchy: Against the State",
+      "authors": [
+        "Gerard N. Casey"
+      ],
+      "categories": [
+        "Big Government",
+        "Philosophy and Methodology",
+        "Political Theory"
+      ],
+      "urls": {
+        "amazon": "http://amzn.to/2onS0Jz"
+      },
+      "recommended": "y"
     }
   ]
 }

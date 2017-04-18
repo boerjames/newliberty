@@ -95,7 +95,7 @@ class Books extends Component {
 
                     </div>
                     <div className="column is-8">
-                        <div className="card" style={{height:'90vh', overflowY:'auto'}}>
+                        <div className="card" style={{maxHeight:'90vh', overflowY:'auto'}}>
                             {this.state.books.map(book => (<Book key={book.title} book={book}/>))}
                         </div>
                     </div>
