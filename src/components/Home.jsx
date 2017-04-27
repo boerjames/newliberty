@@ -2,6 +2,7 @@ import React, {Component} from 'react'
 
 class Home extends Component {
     render() {
+        const faucet = 'http://moonbit.co.in/?ref=c2cdcd439418'
         return (
             <div className="hero is-fullheight">
                 <div className="hero-body">

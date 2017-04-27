@@ -40,6 +40,9 @@ class Header extends Component {
                                         <Link to="/">Home</Link>
                                     </p>
                                     <p className="nav-item is-tab">
+                                        <Link to="/arguments">Arguments</Link>
+                                    </p>
+                                    <p className="nav-item is-tab">
                                         <Link to="/books">Books</Link>
                                     </p>
                                 </div>

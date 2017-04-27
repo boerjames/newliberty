@@ -6,6 +6,7 @@ import './style/custom.scss'
 
 import Header from './components/Header.jsx'
 import Home from './components/Home.jsx'
+import Arguments from './components/Arguments.jsx'
 import Books from './components/Books.jsx'
 
 render(
@@ -13,6 +14,7 @@ render(
 		<div>
 			<Header/>
 			<Route exact path="/" component={Home}/>
+			<Route path="/arguments" component={Arguments}/>
 			<Route path="/books" component={Books}/>
 		</div>
 	</BrowserRouter>,
