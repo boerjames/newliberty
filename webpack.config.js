@@ -48,11 +48,12 @@ const extractSass = new ExtractTextPlugin({
 
 plugins.push(extractSass)
 
-plugins.push(
-	new PurifyCSSPlugin({
-		paths: glob.sync(path.join(__dirname, 'dist/*.html')),
-	})
-)
+// this is breaking css in production, figure out a fix
+// plugins.push(
+// 	new PurifyCSSPlugin({
+// 		paths: glob.sync(path.join(__dirname, 'dist/*.html'))
+// 	})
+// )
 
 module.exports = {
 	entry: entry,
