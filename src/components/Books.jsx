@@ -22,8 +22,7 @@ class Books extends Component {
         const recommendedValue = document.getElementById('recommended-filter').checked
         
         let filteredBooks = data.books.filter(book => {
-            if (book.title.toLowerCase().includes(titleValue)) return true
-            return false
+            return book.title.toLowerCase().includes(titleValue)
         })
 
         filteredBooks = filteredBooks.filter(book => {
@@ -38,8 +37,7 @@ class Books extends Component {
 
         if (recommendedValue) {
             filteredBooks = filteredBooks.filter(book => {
-                if (book.recommended === 'y') return true
-                return false
+                return book.recommended === 'y'
             })
         }
 
