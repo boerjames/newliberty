@@ -14,6 +14,7 @@ class Book extends Component {
         this.getAuthors = this.getAuthors.bind(this)
         this.getCategories = this.getCategories.bind(this)
         this.getURLs = this.getURLs.bind(this)
+        this.getRecommended = this.getRecommended.bind(this)
     }
 
     getAuthors() {
@@ -38,12 +39,16 @@ class Book extends Component {
         )
     }
 
+    getRecommended() {
+        return this.book.recommended === 'y' ? '⭐' : ''
+    }
+
     render() {
         return (
             <div className="card">
                 <div className="card-content">
                     <div className="content">
-                        <strong>{this.book.title}</strong>
+                        <strong>{this.getRecommended() + ' ' + this.book.title}</strong>
                         <br/>
                         {this.getAuthors()}
                         <br/>

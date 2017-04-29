@@ -2,8 +2,10 @@
   "authors": [
     "Claude Frédéric Bastiat",
     "Gerard N. Casey",
+    "David Friedman",
     "Friedrich A. Hayek",
     "Hans-Hermann Hoppe",
+    "Michael Huemer",
     "Albert Jay Nock",
     "Christopher Chase Rachels",
     "Llewellyn H. Rockwell Jr.",
@@ -499,7 +501,7 @@
         "epub": "https://mises.org/system/tdf/What%20Has%20Government%20Done%20to%20Our%20Money_3.epub?file=1&type=ebook",
         "amazon": "http://amzn.to/2oSWjky"
       },
-      "recommended": "y"
+      "recommended": "n"
     },
     {
       "title": "America's Great Depression",
@@ -1330,6 +1332,65 @@
       ],
       "urls": {
         "amazon": "http://amzn.to/2onS0Jz"
+      },
+      "recommended": "y"
+    },
+    {
+      "title": "The Machinery of Freedom: Guide to a Radical Capitalism",
+      "authors": [
+        "David Friedman"
+      ],
+      "categories": [
+        "Free Markets",
+        "Legal System",
+        "Political Theory"
+      ],
+      "urls": {
+        "pdf": "http://daviddfriedman.com/The_Machinery_of_Freedom_.pdf",
+        "amazon": "http://amzn.to/2pJfSw7"
+      },
+      "recommended": "y"
+    },
+    {
+      "title": "Law's Order: What Economics Has to Do with Law and Why It Matters",
+      "authors": [
+        "David Friedman"
+      ],
+      "categories": [
+        "Free Markets",
+        "Legal System",
+        "Other Schools of Thought"
+      ],
+      "urls": {
+        "amazon": "http://amzn.to/2pvQoBF"
+      },
+      "recommended": "n"
+    },
+    {
+      "title": "Hidden Order: The Economics of Everyday Life",
+      "authors": [
+        "David Friedman"
+      ],
+      "categories": [
+        "Free Markets",
+        "U.S. Economy"
+      ],
+      "urls": {
+        "amazon": "http://amzn.to/2pvTJAu"
+      },
+      "recommended": "n"
+    },
+    {
+      "title": "The Problem of Political Authority: An Examination of the Right to Coerce and the Duty to Obey",
+      "authors": [
+        "Michael Huemer"
+      ],
+      "categories": [
+        "Philosophy and Methodology",
+        "Political Theory"
+      ],
+      "urls": {
+        "amazon": "http://amzn.to/2pwezzF"
       },
       "recommended": "y"
     }
