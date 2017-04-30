@@ -2,14 +2,16 @@
   "authors": [
     "Claude Frédéric Bastiat",
     "Gerard N. Casey",
-    "David Friedman",
+    "David D. Friedman",
     "Friedrich A. Hayek",
     "Hans-Hermann Hoppe",
     "Michael Huemer",
+    "Robert P. Murphy",
     "Albert Jay Nock",
     "Christopher Chase Rachels",
     "Llewellyn H. Rockwell Jr.",
-    "Murray N. Rothbard"
+    "Murray N. Rothbard",
+    "Ludwig von Mises"
   ],
   "categories": [
     "Austrian Economics Overview",
@@ -35,6 +37,7 @@
     "Praxeology",
     "Private Property",
     "Production Theory",
+    "Study Guide",
     "U.S. Economy",
     "U.S. History",
     "War and Foreign Policy",
@@ -943,7 +946,7 @@
       "recommended": "n"
     },
     {
-      "title": "Denationalisation of Money: The Argument Refined",
+      "title": "Denationalization of Money: The Argument Refined",
       "authors": [
         "Friedrich A. Hayek"
       ],
@@ -1333,12 +1336,12 @@
       "urls": {
         "amazon": "http://amzn.to/2onS0Jz"
       },
-      "recommended": "y"
+      "recommended": "n"
     },
     {
       "title": "The Machinery of Freedom: Guide to a Radical Capitalism",
       "authors": [
-        "David Friedman"
+        "David D. Friedman"
       ],
       "categories": [
         "Free Markets",
@@ -1354,7 +1357,7 @@
     {
       "title": "Law's Order: What Economics Has to Do with Law and Why It Matters",
       "authors": [
-        "David Friedman"
+        "David D. Friedman"
       ],
       "categories": [
         "Free Markets",
@@ -1369,7 +1372,7 @@
     {
       "title": "Hidden Order: The Economics of Everyday Life",
       "authors": [
-        "David Friedman"
+        "David D. Friedman"
       ],
       "categories": [
         "Free Markets",
@@ -1393,6 +1396,133 @@
         "amazon": "http://amzn.to/2pwezzF"
       },
       "recommended": "y"
+    },
+    {
+      "title": "Chaos Theory",
+      "authors": [
+        "Robert P. Murphy"
+      ],
+      "categories": [
+        "Political Theory"
+      ],
+      "urls": {
+        "pdf": "https://mises.org/system/tdf/Chaos%20Theory_2.pdf?file=1&type=document",
+        "epub": "https://mises.org/system/tdf/Chaos%20Theory_2.epub?file=1&type=ebook",
+        "amazon": "http://amzn.to/2pi9Ocw"
+      },
+      "recommended": "n"
+    },
+    {
+      "title": "Lessons for the Young Economist",
+      "authors": [
+        "Robert P. Murphy"
+      ],
+      "categories": [
+        "Austrian Economics Overview",
+        "Education"
+      ],
+      "urls": {
+        "pdf": "https://mises.org/system/tdf/lessons_for_the_young_economist_murphy_0.pdf?file=1&type=document",
+        "epub": "https://mises.org/system/tdf/Lessons%20for%20the%20Young%20Economist_4.epub?file=1&type=ebook",
+        "amazon": "http://amzn.to/2pwozsX"
+      },
+      "recommended": "y"
+    },
+    {
+      "title": "The Politically Incorrect Guide to the Great Depression and the New Deal",
+      "authors": [
+        "Robert P. Murphy"
+      ],
+      "categories": [
+        "Booms and Busts",
+        "Political Theory",
+        "U.S. Economy",
+        "U.S. History"
+      ],
+      "urls": {
+        "amazon": "http://amzn.to/2pwx1IK"
+      },
+      "recommended": "n"
+    },
+    {
+      "title": "The Politically Incorrect Guide to Capitalism",
+      "authors": [
+        "Robert P. Murphy"
+      ],
+      "categories": [
+        "Free Markets",
+        "Interventionism",
+        "Other Schools of Thought",
+        "Political Theory"
+      ],
+      "urls": {
+        "amazon": "http://amzn.to/2pi7mD1"
+      },
+      "recommended": "n"
+    },
+    {
+      "title": "Choice: Cooperation, Enterprise, and Human Action",
+      "authors": [
+        "Robert P. Murphy"
+      ],
+      "categories": [
+        "Austrian Economics Overview",
+        "Free Markets"
+      ],
+      "urls": {
+        "amazon": "http://amzn.to/2oL3JH9"
+      },
+      "recommended": "y"
+    },
+    {
+      "title": "Study Guide to Human Action: A Treatise on Economics",
+      "authors": [
+        "Robert P. Murphy",
+        "Ludwig von Mises"
+      ],
+      "categories": [
+        "Austrian Economics Overview",
+        "Study Guide"
+      ],
+      "urls": {
+        "pdf": "https://mises.org/system/tdf/Study%20Guide%20to%20Human%20Action%20A%20Treatise%20on%20Economics_2.pdf?file=1&type=document",
+        "epub": "https://mises.org/system/tdf/Study%20Guide%20to%20Human%20Action%20A%20Treatise%20on%20Economics_2.epub?file=1&type=ebook"
+      },
+      "recommended": "n"
+    },
+    {
+      "title": "Study Guide to Man, Economy, and State",
+      "authors": [
+        "Robert P. Murphy",
+        "Murray N. Rothbard"
+      ],
+      "categories": [
+        "Austrian Economics Overview",
+        "Study Guide",
+        "Political Theory"
+      ],
+      "urls": {
+        "pdf": "https://mises.org/system/tdf/Study%20Guide%20of%20Man%2C%20Economy%2C%20and%20State_2.pdf?file=1&type=document",
+        "epub": "https://mises.org/system/tdf/Study%20Guide%20of%20Man%2C%20Economy%2C%20and%20State_2.epub?file=1&type=ebook"
+      },
+      "recommended": "n"
+    },
+    {
+      "title": "Study Guide to The Theory of Money and Credit",
+      "authors": [
+        "Robert P. Murphy",
+        "Ludwig von Mises"
+      ],
+      "categories": [
+        "Monetary Theory",
+        "Money and Banking",
+        "Study Guide"
+      ],
+      "urls": {
+        "pdf": "https://mises.org/system/tdf/Study%20Guide%20to%20the%20Theory%20of%20Money%20and%20Credit_2.pdf?file=1&type=document",
+        "epub": "https://mises.org/system/tdf/Study%20Guide%20to%20the%20Theory%20of%20Money%20and%20Credit_2.epub?file=1&type=ebook"
+      },
+      "recommended": "n"
     }
   ]
 }

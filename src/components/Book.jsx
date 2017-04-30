@@ -5,6 +5,7 @@ import React, {Component} from 'react'
  * authors: string[]
  * categories: string[]
  * urls: {}
+ * recommended: y/n
  */
 
 class Book extends Component {
