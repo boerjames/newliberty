@@ -7,7 +7,7 @@ class ArgumentsPage extends Component {
     render() {
         return (
             <Bundle load={LoadArguments}>
-                {(Comp) => Comp ? <Comp/> : <p>Loading...</p>}
+                {(Comp) => Comp ? <Comp/> : null}
             </Bundle>
         )
     }

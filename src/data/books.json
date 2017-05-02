@@ -4,8 +4,10 @@
     "Gerard N. Casey",
     "David D. Friedman",
     "Friedrich A. Hayek",
+    "Henry Hazlitt",
     "Hans-Hermann Hoppe",
     "Michael Huemer",
+    "Jesús Huerta de Soto",
     "Robert P. Murphy",
     "Albert Jay Nock",
     "Christopher Chase Rachels",
@@ -42,6 +44,12 @@
     "U.S. History",
     "War and Foreign Policy",
     "World History"
+  ],
+  "difficulties": [
+    "Children",
+    "Beginner",
+    "Intermediate",
+    "Advanced"
   ],
   "books": [
     {
@@ -735,6 +743,21 @@
         "pdf": "https://mises.org/system/tdf/Theory%20of%20Socialism%20and%20Capitalism%2C%20A_4.pdf?file=1&type=document",
         "epub": "https://mises.org/system/tdf/Theory%20of%20Socialism%20and%20Capitalism%2C%20A_4.epub?file=1&type=ebook",
         "amazon": "http://amzn.to/2ohP292"
+      },
+      "recommended": "y"
+    },
+    {
+      "title": "The Great Fiction: Property, Economy, Society, and the Politics of Decline",
+      "authors": [
+        "Hans-Hermann Hoppe"
+      ],
+      "categories": [
+        "Free Markets",
+        "Political Theory",
+        "Private Property"
+      ],
+      "urls": {
+        "amazon": "http://amzn.to/2pCh97w"
       },
       "recommended": "y"
     },
@@ -1523,6 +1546,351 @@
         "epub": "https://mises.org/system/tdf/Study%20Guide%20to%20the%20Theory%20of%20Money%20and%20Credit_2.epub?file=1&type=ebook"
       },
       "recommended": "n"
+    },
+    {
+      "title": "Business Tides: The Newsweek Era of Henry Hazlitt",
+      "authors": [
+        "Henry Hazlitt"
+      ],
+      "categories": [
+        "Global Economy",
+        "U.S. Economy"
+      ],
+      "urls": {
+        "pdf": "https://mises.org/system/tdf/Business%20Tides%20The%20Newsweek%20Era%20of%20Henry%20Hazlitt_2.pdf?file=1&type=document",
+        "epub": "https://mises.org/system/tdf/Business%20Tides%20The%20Newsweek%20Era%20of%20Henry%20Hazlitt_2.epub?file=1&type=ebook",
+        "amazon": "http://amzn.to/2pRh7JK"
+      },
+      "recommended": "n"
+    },
+    {
+      "title": "Economics in One Lesson",
+      "authors": [
+        "Henry Hazlitt"
+      ],
+      "categories": [
+        "Austrian Economics Overview",
+        "Free Markets",
+        "Interventionism"
+      ],
+      "urls": {
+        "pdf": "https://mises.org/system/tdf/Henry%20Hazlitt%20Economics%20in%20One%20Lesson.pdf?file=1&type=document",
+        "amazon": "http://amzn.to/2pq2z2l"
+      },
+      "recommended": "y"
+    },
+    {
+      "title": "Failure of the New Economics",
+      "authors": [
+        "Henry Hazlitt"
+      ],
+      "categories": [
+        "Business Cycles",
+        "Free Markets",
+        "Interventionism"
+      ],
+      "urls": {
+        "pdf": "https://mises.org/system/tdf/Failure%20of%20the%20New%20Economics_5.pdf?file=1&type=document",
+        "epub": "https://mises.org/system/tdf/Failure%20of%20the%20New%20Economics_3.epub?file=1&type=ebook",
+        "amazon": "http://amzn.to/2pBTeF0"
+      },
+      "recommended": "y"
+    },
+    {
+      "title": "From Bretton Woods to World Inflation: A Study of Causes and Consequences",
+      "authors": [
+        "Henry Hazlitt"
+      ],
+      "categories": [
+        "Global Economy",
+        "Monetary Theory",
+        "Money and Banking"
+      ],
+      "urls": {
+        "pdf": "https://mises.org/system/tdf/From%20Bretton%20Woods%20to%20World%20Inflation%20A%20Study%20of%20Causes%20and%20Consequences_3.pdf?file=1&type=document",
+        "epub": "https://mises.org/system/tdf/From%20Bretton%20Woods%20to%20World%20Inflation%20A%20Study%20of%20Causes%20and%20Consequences_3.epub?file=1&type=ebook",
+        "amazon": "http://amzn.to/2pqk4zB"
+      },
+      "recommended": "n"
+    },
+    {
+      "title": "Man vs. The Welfare State",
+      "authors": [
+        "Henry Hazlitt"
+      ],
+      "categories": [
+        "Big Government",
+        "Interventionism"
+      ],
+      "urls": {
+        "pdf": "https://mises.org/system/tdf/Man%20vs%20The%20Welfare%20State_3.pdf?file=1&type=document",
+        "epub": "https://mises.org/system/tdf/Man%20vs%20The%20Welfare%20State_3.epub?file=1&type=ebook",
+        "amazon": "http://amzn.to/2qs0zFt"
+      },
+      "recommended": "n"
+    },
+    {
+      "title": "Illusions of Point Four",
+      "authors": [
+        "Henry Hazlitt"
+      ],
+      "categories": [
+        "Big Government",
+        "U.S. History"
+      ],
+      "urls": {
+        "pdf": "https://mises.org/system/tdf/Illusions%20of%20Point%20Four_2.pdf?file=1&type=document"
+      },
+      "recommended": "n"
+    },
+    {
+      "title": "Instead of Dictatorship",
+      "authors": [
+        "Henry Hazlitt"
+      ],
+      "categories": [
+        "Philosophy and Methodology",
+        "Political Theory"
+      ],
+      "urls": {
+        "pdf": "https://mises.org/system/tdf/Instead%20of%20Dictatorship_2.pdf?file=1&type=document"
+      },
+      "recommended": "n"
+    },
+    {
+      "title": "The Anatomy of Criticism: A Trialogue",
+      "authors": [
+        "Henry Hazlitt"
+      ],
+      "categories": [
+        "Media and Culture"
+      ],
+      "urls": {
+        "pdf": "https://mises.org/system/tdf/The%20Anatomy%20of%20Criticism%20A%20Trialogue_3.pdf?file=1&type=document"
+      },
+      "recommended": "n"
+    },
+    {
+      "title": "The Conquest of Poverty",
+      "authors": [
+        "Henry Hazlitt"
+      ],
+      "categories": [
+        "Free Markets",
+        "Interventionism"
+      ],
+      "urls": {
+        "pdf": "https://mises.org/system/tdf/The%20Conquest%20of%20Poverty_3.pdf?file=1&type=document",
+        "epub": "https://mises.org/system/tdf/The%20Conquest%20of%20Poverty_3.epub?file=1&type=ebook",
+        "amazon": "http://amzn.to/2qyfDAf"
+      },
+      "recommended": "n"
+    },
+    {
+      "title": "The Critics of Keynesian Economics",
+      "authors": [
+        "Henry Hazlitt"
+      ],
+      "categories": [
+        "Capital and Interest Theory",
+        "Other Schools of Thought"
+      ],
+      "urls": {
+        "pdf": "https://mises.org/system/tdf/The%20Critics%20of%20Keynesian%20Economics_3.pdf?file=1&type=document",
+        "epub": "https://mises.org/system/tdf/The%20Critics%20of%20Keynesian%20Economics_2.epub?file=1&type=ebook",
+        "amazon": "http://amzn.to/2qrzTEB"
+      },
+      "recommended": "n"
+    },
+    {
+      "title": "The Foundations of Morality",
+      "authors": [
+        "Henry Hazlitt"
+      ],
+      "categories": [
+        "Philosophy and Methodology",
+        "Political Theory"
+      ],
+      "urls": {
+        "pdf": "https://mises.org/system/tdf/The%20Foundations%20of%20Morality_3.pdf?file=1&type=document",
+        "epub": "https://mises.org/system/tdf/The%20Foundations%20of%20Morality_Vol_3_3.epub?file=1&type=ebook",
+        "amazon": "http://amzn.to/2pqhMAl"
+      },
+      "recommended": "n"
+    },
+    {
+      "title": "The Free Man's Library",
+      "authors": [
+        "Henry Hazlitt"
+      ],
+      "categories": [
+        "Free Markets",
+        "Political Theory"
+      ],
+      "urls": {
+        "pdf": "https://mises.org/system/tdf/The%20Free%20Mans%20Library_3.pdf?file=1&type=document",
+        "epub": "https://mises.org/system/tdf/The%20Free%20Mans%20Library_3.epub?file=1&type=ebook",
+        "amazon": "http://amzn.to/2ppZ8c8"
+      },
+      "recommended": "n"
+    },
+    {
+      "title": "The Inflation Crisis, and How To Resolve It",
+      "authors": [
+        "Henry Hazlitt"
+      ],
+      "categories": [
+        "Monetary Theory",
+        "Money and Banking"
+      ],
+      "urls": {
+        "pdf": "https://mises.org/system/tdf/The%20Inflation%20Crisis%2C%20and%20How%20To%20Resolve%20It_3.pdf?file=1&type=document",
+        "epub": "https://mises.org/system/tdf/The%20Inflation%20Crisis%2C%20and%20How%20To%20Resolve%20It_3.epub?file=1&type=ebook",
+        "amazon": "http://amzn.to/2qygykd"
+      },
+      "recommended": "n"
+    },
+    {
+      "title": "The Way to Will Power",
+      "authors": [
+        "Henry Hazlitt"
+      ],
+      "categories": [
+        "Philosophy and Methodology"
+      ],
+      "urls": {
+        "pdf": "https://mises.org/system/tdf/The%20Way%20to%20Will%20Power_3.pdf?file=1&type=document",
+        "epub": "https://mises.org/system/tdf/The%20Way%20to%20Will%20Power_3.epub?file=1&type=ebook",
+        "amazon": "http://amzn.to/2qrPa8o"
+      },
+      "recommended": "n"
+    },
+    {
+      "title": "The Wisdom of Henry Hazlitt",
+      "authors": [
+        "Henry Hazlitt"
+      ],
+      "categories": [
+        "Big Government",
+        "Free Markets",
+        "Interventionism"
+      ],
+      "urls": {
+        "pdf": "https://mises.org/system/tdf/The%20Wisdom%20of%20Henry%20Hazlitt_3.pdf?file=1&type=document",
+        "epub": "https://mises.org/system/tdf/The%20Wisdom%20of%20Henry%20Hazlitt_3.epub?file=1&type=ebook",
+        "amazon": "http://amzn.to/2qyt2s8"
+      },
+      "recommended": "n"
+    },
+    {
+      "title": "The Wisdom of the Stoics",
+      "authors": [
+        "Henry Hazlitt"
+      ],
+      "categories": [
+        "Philosophy and Methodology"
+      ],
+      "urls": {
+        "pdf": "https://mises.org/system/tdf/The%20Wisdom%20of%20the%20Stoics_3.pdf?file=1&type=document",
+        "amazon": "http://amzn.to/2p03pzg"
+      },
+      "recommended": "n"
+    },
+    {
+      "title": "Thinking as a Science",
+      "authors": [
+        "Henry Hazlitt"
+      ],
+      "categories": [
+        "Education",
+        "Philosophy and Methodology"
+      ],
+      "urls": {
+        "pdf": "https://mises.org/system/tdf/Thinking%20as%20a%20Science_3.pdf?file=1&type=document",
+        "epub": "https://mises.org/system/tdf/Thinking%20as%20a%20Science_3.epub?file=1&type=ebook",
+        "amazon": "http://amzn.to/2pzPTV8"
+      },
+      "recommended": "n"
+    },
+    {
+      "title": "Time Will Run Back",
+      "authors": [
+        "Henry Hazlitt"
+      ],
+      "categories": [
+        "Calculation and Knowledge",
+        "Media and Culture"
+      ],
+      "urls": {
+        "pdf": "https://mises.org/system/tdf/Time%20Will%20Run%20Back_Vol_2_3.pdf?file=1&type=document",
+        "epub": "https://mises.org/system/tdf/Time%20Will%20Run%20Back_3.epub?file=1&type=ebook",
+        "amazon": "http://amzn.to/2qytSVO"
+      },
+      "recommended": "n"
+    },
+    {
+      "title": "What You Should Know About Inflation",
+      "authors": [
+        "Henry Hazlitt"
+      ],
+      "categories": [
+        "Monetary Theory",
+        "Money and Banking"
+      ],
+      "urls": {
+        "pdf": "https://mises.org/system/tdf/What%20You%20Should%20Know%20About%20Inflation_3.pdf?file=1&type=document",
+        "epub": "https://mises.org/system/tdf/What%20You%20Should%20Know%20About%20Inflation_3.epub?file=1&type=ebook",
+        "amazon": "http://amzn.to/2pBZM6M"
+      },
+      "recommended": "n"
+    },
+    {
+      "title": "Will Dollars Save the World?",
+      "authors": [
+        "Henry Hazlitt"
+      ],
+      "categories": [
+        "Global Economy",
+        "U.S. Economy",
+        "U.S. History"
+      ],
+      "urls": {
+        "pdf": "https://mises.org/system/tdf/Will%20Dollars%20Save%20the%20World_3.pdf?file=1&type=document",
+        "epub": "https://mises.org/system/tdf/Will%20Dollars%20Save%20the%20World_3.epub?file=1&type=ebook",
+        "amazon": "http://amzn.to/2qrLx28"
+      },
+      "recommended": "n"
+    },
+    {
+      "title": "Money, Bank Credit, and Economic Cycles",
+      "authors": [
+        "Jesús Huerta de Soto"
+      ],
+      "categories": [
+        "Booms and Busts",
+        "Business Cycles",
+        "Money and Banking"
+      ],
+      "urls": {
+        "pdf": "https://mises.org/system/tdf/Money_Bank_Credit_and_Economic_Cycles_De%20Soto.pdf?file=1&type=document",
+        "epub": "https://mises.org/system/tdf/Money%2C%20Bank%20Credit%2C%20and%20Economic%20Cycles_Vol_2_2.epub?file=1&type=ebook",
+        "amazon": "http://amzn.to/2qrWj8E"
+      },
+      "recommended": "y"
+    },
+    {
+      "title": "Socialism, Economic Calculation, and Entrepreneurship",
+      "authors": [
+        "Jesús Huerta de Soto"
+      ],
+      "categories": [
+        "Calculation and Knowledge",
+        "Free Markets"
+      ],
+      "urls": {
+        "amazon": "http://amzn.to/2pqeJs5"
+      },
+      "recommended": "y"
     }
   ]
 }

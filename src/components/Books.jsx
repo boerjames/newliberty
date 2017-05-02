@@ -10,7 +10,8 @@ class Books extends Component {
         this.state = {
             books: data.books,
             authors: data.authors,
-            categories: data.categories
+            categories: data.categories,
+            difficulties: data.difficulties
         }
         this.updateFilter = this.updateFilter.bind(this)
     }
@@ -78,6 +79,18 @@ class Books extends Component {
                                     <select id="category-filter" onChange={this.updateFilter} style={{width:'100%'}}>
                                         <option value="">Select Category</option>
                                         {this.state.categories.map(category => (<option value={category}>{category}</option>))}
+                                    </select>
+                                </span>
+                            </p>
+                        </div>
+
+                        <div className="field">
+                            <label className="label">Difficulty</label>
+                            <p className="control">
+                                <span className="select" style={{width:'100%'}}>
+                                    <select id="difficulty-filter" onChange={this.updateFilter} style={{width:'100%'}}>
+                                        <option value="">Select Difficulty</option>
+                                        {this.state.difficulties.map(difficulty => (<option value={difficulty}>{difficulty}</option>))}
                                     </select>
                                 </span>
                             </p>

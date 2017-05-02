@@ -7,7 +7,7 @@ class BooksPage extends Component {
     render() {
         return (
             <Bundle load={LoadBooks}>
-                {(Comp) => Comp ? <Comp/> : <p>Loading...</p>}
+                {(Comp) => Comp ? <Comp/> : null}
             </Bundle>
         )
     }
