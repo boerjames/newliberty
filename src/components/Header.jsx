@@ -45,6 +45,12 @@ class Header extends Component {
                                     <p className="nav-item is-tab">
                                         <Link to="/books">Books</Link>
                                     </p>
+                                    <p className="nav-item is-tab">
+                                        <Link to="/tv">TV</Link>
+                                    </p>
+                                    <p className="nav-item is-tab">
+                                        <Link to="/news">News</Link>
+                                    </p>
                                 </div>
                             </div>
                         </nav>
