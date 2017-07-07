@@ -25,6 +25,7 @@ const plugins = PRODUCTION ? [
 		}
 	}),
 	new webpack.optimize.UglifyJsPlugin(),
+	new webpack.optimize.ModuleConcatenationPlugin(),
 	new HTMLPlugin({
 		template: './src/html/index-template.html',
 		filename: 'index.html',
@@ -48,7 +49,7 @@ const extractSass = new ExtractTextPlugin({
 
 plugins.push(extractSass)
 
-// this is breaking css in production, figure out a fix
+// TODO: this is breaking css in production
 // plugins.push(
 // 	new PurifyCSSPlugin({
 // 		paths: glob.sync(path.join(__dirname, 'dist/*.html'))
