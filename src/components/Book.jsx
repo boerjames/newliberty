@@ -2,9 +2,9 @@ import React, {Component} from 'react'
 
 /**
  * title: string
- * authors: string[]
+ * author: string
  * categories: string[]
- * urls: {}
+ * links: {}
  * recommended: y/n
  */
 
@@ -12,25 +12,20 @@ class Book extends Component {
     constructor(props) {
         super(props)
         this.book = this.props.book
-        this.getAuthors = this.getAuthors.bind(this)
-        this.getCategories = this.getCategories.bind(this)
-        this.getURLs = this.getURLs.bind(this)
-        this.getRecommended = this.getRecommended.bind(this)
+        this.getTopics = this.getTopics.bind(this)
+        this.getLinks = this.getLinks.bind(this)
+        // this.getRecommended = this.getRecommended.bind(this)
     }
 
-    getAuthors() {
-        return this.book.authors.join(', ')
+    getTopics() {
+        return this.book.topics.join(' | ')
     }
 
-    getCategories() {
-        return this.book.categories.join(' | ')
-    }
-
-    getURLs() {
+    getLinks() {
         return (
             <div>
             {
-                Object.entries(this.book.urls).map(
+                Object.entries(this.book.links).map(
                     ([key, value]) => {
                         return <a key={value} href={value} target="_blank">{key} </a>
                     }
@@ -40,22 +35,24 @@ class Book extends Component {
         )
     }
 
-    getRecommended() {
-        return this.book.recommended === 'y' ? '⭐' : ''
-    }
+    // getRecommended() {
+    //     return this.book.recommended === 'y' ? '⭐' : ''
+    // }
 
     render() {
         return (
             <div className="card">
                 <div className="card-content">
                     <div className="content">
-                        <strong>{this.getRecommended() + ' ' + this.book.title}</strong>
+                        <strong>{this.book.title}</strong>
                         <br/>
-                        {this.getAuthors()}
+                        {this.book.author}
                         <br/>
-                        {this.getCategories()}
+                        <small>{this.getTopics()}</small>
                         <br/>
-                        {this.getURLs()}
+                        {/*<small>{this.book.description}</small>*/}
+                        {/*<br/>*/}
+                        <small>{this.getLinks()}</small>
                     </div>
                 </div>
             </div>

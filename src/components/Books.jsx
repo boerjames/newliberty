@@ -2,16 +2,17 @@ import React, {Component} from 'react'
 
 import Book from './Book.jsx'
 
+// import data from '../data/books-old.json'
 import data from '../data/books.json'
 
+// TODO make filtering logic way better e.g. individual methods per filter type
 class Books extends Component {
     constructor(props) {
         super(props)
         this.state = {
             books: data.books,
             authors: data.authors,
-            categories: data.categories,
-            difficulties: data.difficulties
+            topics: data.topics
         }
         this.updateFilter = this.updateFilter.bind(this)
     }
@@ -19,28 +20,32 @@ class Books extends Component {
     updateFilter() {
         const titleValue = document.getElementById('title-filter').value.toLowerCase()
         const authorValue = document.getElementById('author-filter').value
-        const categoryValue = document.getElementById('category-filter').value
-        const recommendedValue = document.getElementById('recommended-filter').checked
+        const topicValue = document.getElementById('topic-filter').value
+        // const recommendedValue = document.getElementById('recommended-filter').checked
         
         let filteredBooks = data.books.filter(book => {
-            return book.title.toLowerCase().includes(titleValue)
+            return book.titlesearch.includes(titleValue)
         })
 
-        filteredBooks = filteredBooks.filter(book => {
-            for (let author of book.authors) if (author.includes(authorValue)) return true
-            return false
-        })
-
-        filteredBooks = filteredBooks.filter(book => {
-            for (let category of book.categories) if (category.includes(categoryValue)) return true
-            return false
-        })
-
-        if (recommendedValue) {
+        if (authorValue !== '') {
             filteredBooks = filteredBooks.filter(book => {
-                return book.recommended === 'y'
+                return book.author === authorValue
             })
         }
+
+        if (topicValue !== '') {
+            filteredBooks = filteredBooks.filter(book => {
+                for (let topic of book.topics) if (topic.includes(topicValue)) return true
+                return false
+            })
+        }
+
+
+        // if (recommendedValue) {
+        //     filteredBooks = filteredBooks.filter(book => {
+        //         return book.recommended === 'y'
+        //     })
+        // }
 
         this.setState({
             books: filteredBooks
@@ -73,43 +78,33 @@ class Books extends Component {
                         </div>
 
                         <div className="field">
-                            <label className="label">Category</label>
+                            <label className="label">Topic</label>
                             <p className="control">
                                 <span className="select" style={{width:'100%'}}>
-                                    <select id="category-filter" onChange={this.updateFilter} style={{width:'100%'}}>
-                                        <option value="">Select Category</option>
-                                        {this.state.categories.map(category => (<option value={category}>{category}</option>))}
+                                    <select id="topic-filter" onChange={this.updateFilter} style={{width:'100%'}}>
+                                        <option value="">Select Topic</option>
+                                        {this.state.topics.map(topic => (<option value={topic}>{topic}</option>))}
                                     </select>
                                 </span>
                             </p>
                         </div>
 
-                        <div className="field">
-                            <label className="label">Difficulty</label>
-                            <p className="control">
-                                <span className="select" style={{width:'100%'}}>
-                                    <select id="difficulty-filter" onChange={this.updateFilter} style={{width:'100%'}}>
-                                        <option value="">Select Difficulty</option>
-                                        {this.state.difficulties.map(difficulty => (<option value={difficulty}>{difficulty}</option>))}
-                                    </select>
-                                </span>
-                            </p>
-                        </div>
-
-                        <div className="field">
-                            <p className="control">
-                                <label className="label">
-                                    <input id="recommended-filter" onChange={this.updateFilter} type="checkbox"/> Recommended Reading
-                                </label>
-                            </p>
-                        </div>
+                        {/*<div className="field">*/}
+                            {/*<p className="control">*/}
+                                {/*<label className="label">*/}
+                                    {/*<input id="recommended-filter" onChange={this.updateFilter} type="checkbox"/> Recommended Reading*/}
+                                {/*</label>*/}
+                            {/*</p>*/}
+                        {/*</div>*/}
 
                     </div>
+
                     <div className="column is-8">
                         <div className="card" style={{maxHeight:'90vh', overflowY:'auto'}}>
                             {this.state.books.map(book => (<Book key={book.title} book={book}/>))}
                         </div>
                     </div>
+
                 </div>
             </div>
         )
