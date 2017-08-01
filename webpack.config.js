@@ -56,6 +56,7 @@ plugins.push(extractSass)
 // 	})
 // )
 
+// TODO: load react, react-dom, react-router-dom from externals
 module.exports = {
 	entry: entry,
 	plugins: plugins,

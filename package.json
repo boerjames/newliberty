@@ -5,9 +5,10 @@
   "main": "index.js",
   "scripts": {
     "build": "rimraf dist && NODE_ENV=production webpack",
-    "start": "NODE_ENV=production node server.js",
+    "start": "NODE_ENV=production PORT=8080 node server.js",
     "stats": "rimraf dist && NODE_ENV=production webpack --profile --json > stats.json",
-    "dev": "NODE_ENV=development node webpack-dev-server.js"
+    "dev": "NODE_ENV=development node webpack-dev-server.js",
+    "python": "virtualenv -p /usr/local/bin/python3 scrape/env && . scrape/env/bin/activate && pip install -r scrape/requirements.txt"
   },
   "author": "James Boer",
   "license": "ISC",
@@ -17,28 +18,28 @@
     "babel-preset-env": "^1.6.0",
     "babel-preset-react": "^6.23.0",
     "babel-preset-stage-0": "^6.16.0",
-    "bulma": "^0.4.3",
+    "bulma": "^0.5.0",
     "css-loader": "^0.28.4",
     "express": "^4.15.3",
-    "extract-text-webpack-plugin": "^2.1.2",
+    "extract-text-webpack-plugin": "^3.0.0",
     "file-loader": "^0.11.2",
-    "html-webpack-plugin": "^2.29.0",
+    "html-webpack-plugin": "^2.30.1",
     "node-sass": "^4.5.3",
     "purify-css": "^1.2.5",
     "purifycss-webpack": "^0.7.0",
-    "react-router-dom": "^4.1.1",
+    "react-router-dom": "^4.1.2",
     "rimraf": "^2.5.4",
     "sass-loader": "^6.0.6",
     "style-loader": "^0.18.2",
     "url-loader": "^0.5.9",
-    "webpack": "^3.1.0",
-    "webpack-dev-server": "^2.5.0"
+    "webpack": "^3.4.1",
+    "webpack-dev-server": "^2.6.1"
   },
   "dependencies": {
     "babel-polyfill": "^6.23.0",
     "bundle-loader": "^0.5.5",
-    "compression": "^1.6.2",
-    "helmet": "^3.6.1",
+    "compression": "^1.7.0",
+    "helmet": "^3.8.1",
     "react": "^15.6.1",
     "react-dom": "^15.6.1"
   }
